@@ -53,10 +53,11 @@ X_test = np.array(['hello',
 #selector = RFECV(estimator, step=1, cv=5)
 #selector = selector.fit(X_train, y_train)
 
-for i in range(X_train.size):
-    print X_train[i]
-    print ">>>>"
-    print y_train[i]
+#for i in range(X_train.size):
+#    print X_train[i]
+#    print ">>>>"
+#    print y_train[i]
+
 
 classifier = Pipeline([
  #   ('selector', selector),
@@ -66,12 +67,15 @@ classifier = Pipeline([
     #('select1', SelectPercentile(f_classif(X_train, y_train), 60)),
     #('selector', RFECV(MultinomialNB(alpha=0, class_prior=None, fit_prior=True), scoring='roc_auc')),
     #('selector', RFECV(MultinomialNB(alpha=0, class_prior=None, fit_prior=True))),
-    ('selector', RFECV(LogisticRegression(C=.01, penalty='l2', class_weight='auto'), scoring='roc_auc')),
+    #('selector', RFECV(LogisticRegression(C=.01, penalty='l2', class_weight='auto'), scoring='roc_auc')),
     ('tfidf', TfidfTransformer()),
+    #('clf', LogisticRegression(C=.01, penalty='l2', class_weight='auto'))])
     ('clf',  MultinomialNB(alpha=0, class_prior=None, fit_prior=True))])
 
-print classifier.get_params(deep=True)
+print "ugh >>>>>><<<<<<<"
+#print classifier.get_params(deep=True)
 classifier.fit(X_train, y_train)
+print "ugh >>>>>><<<<<<<"
 print replies
 predicted = classifier.predict(X_test)
 print predicted
@@ -91,7 +95,7 @@ while True:
         #print nextSequence
         utterance = nextSequence
         numIt = numIt + 1
-        print "hello2"
+        print nextWord
     print ">>>>> " + response
 for item, label in zip(freplies, labels):
     print '%s => %s' % (item, label)# for x in labels))

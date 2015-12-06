@@ -1,12 +1,21 @@
 Human: hello !
+
 Machine: hello !
+
 Human: how are you ? 
+
 Machine: i am good .
+
 Human: what is your name ? 
+
 Machine: i am julia .
+
 Human: when were you born ?
+
 Machine: july 20th .
+
 Human: what year were you born ?
+
 Machine: i am born in 1977  
 Human: where are you from ?
 Machine: i am out in the boonies . 

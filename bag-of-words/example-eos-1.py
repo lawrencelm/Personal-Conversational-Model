@@ -10,12 +10,33 @@ from sklearn.linear_model import LogisticRegression
 
 fname = "friends-season1.txt"
 with open(fname) as f:
-    replies = [" ".join(reply.split()[1:]) + " <EOS>" for reply in f.readlines()]
+    replies = []
+    for reply in f.readlines():
+        if len(reply) > 1 and (':' in reply.split()[0]):
+            words = reply.split()[1:]
+			# print words
+            new_words = []
+            for word in words:
+                if "..." in word:
+                    word = word.replace("...","")
+                if ".." in word:
+                    word = word.replace("..","")
+                if "(" in word:
+                    word = word.replace("(","")
+                if ")" in word:
+                    word = word.replace(")","")
+                if len(word) != 0:
+                    last_ch = word[len(word)-1]
+                    if last_ch is "." or last_ch is "!" or last_ch is "?" or last_ch is ";" or last_ch is ",":
+                        word = word[:len(word)-1]
+                    new_words.append(word)
+			# print " ".join(new_words)
+            replies.append(" ".join(new_words) + " <EOS>")
+    # replies = [" ".join(reply.split()[1:]) + " <EOS>" for reply in f.readlines()]
 replies = [reply.lower() for reply in replies if reply != ""]
-print replies
 labels = []
 freplies = []
-# print replies 
+print replies 
 
 for i in range(len(replies)-1):
 	reply = replies[i]
@@ -51,14 +72,13 @@ X_test = np.array(['hello',
 					"not", "july"])   
 
 classifier = Pipeline([
-    ('vectorizer', CountVectorizer(ngram_range=tuple([1,3]))),
-    ('tfidf', TfidfTransformer()),
-    #('clf', LogisticRegression(C=.01, penalty='l2', class_weight='auto'))])
-    ('clf',  MultinomialNB(alpha=0, class_prior=None, fit_prior=True))])
+    ('vectorizer', CountVectorizer(ngram_range=tuple([1,2]))),
+#    ('tfidf', TfidfTransformer()),
+    ('clf', MultinomialNB(alpha=0, class_prior=None, fit_prior=True))])
+    #('clf',  MultinomialNB(alpha=0, class_prior=None, fit_prior=True))])
 
 for i in range(X_train.size):
     print str(X_train[i]) + " >>>> " + str(y_train[i])
-
 
 classifier.fit(X_train, y_train)
 
@@ -70,25 +90,33 @@ while True:
     utterance = raw_input()
     if utterance == "":
         break
+    utterance += ' <eos>'
     response = ""
     numIt = 0
     not_reply_end = True
+    lastWord = ""
     while not_reply_end:
         #print utterance
         nextWord = classifier.predict([utterance])
+        print "Predicted: ", nextWord
+        # print "Next word: ", nextWord
         # print nextWord[0][len(nextWord)-6:len(nextWord)-1]
         # end = nextWord[0][len(nextWord[0])-5:len(nextWord[0])]
         if nextWord[0] == '<eos>':
-        	# nextWord[0] = nextWord[0][:len(nextWord[0])-5]
+        	nextWord[0] = nextWord[0][:len(nextWord[0])-5]
         	not_reply_end = False
+        elif nextWord[0] == lastWord:
+            not_reply_end = False
         #print nextWord
         response = response + " " + nextWord[0]
         nextSequence = utterance + " " + nextWord[0]
         #print nextSequence
         utterance = nextSequence
         numIt = numIt + 1
+        lastWord = nextWord[0]
     print ">>>>> " + response
 for item, label in zip(freplies, labels):
     print '%s => %s' % (item, label)# for x in labels))
 # for item, label in zip(X_test, predicted):
 #     print '%s => %s' % (item, label)# for x in labels))
+
