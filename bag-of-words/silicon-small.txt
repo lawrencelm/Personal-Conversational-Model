@@ -1,0 +1,36 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 THOMAS: Fuck, I\'92m going to have to go to graduate school. I can\'92t afford to stay here even if I\'92m working full time at Boodle. Thomas looks down at the TV where Gavin Belson is still talking. \
+GAVIN: That is how Boodle can change the world. \
+THOMAS: Changing the world, one crappy app at a time.\
+LAURIE: Have a seat. There aren't any. \
+RICHARD: sits Indian-style on the floor and peers up clumsily over the desk. \
+LAURIE: At Raviga Capital, we pride ourselves on being "founder friendly."\
+RICHARD: You fired me on Snapchat.\
+LAURIE: That respect is critical to our deal flow. We know entrepreneurs have plenty of suitors on Sand Hill. RICHARD: You didn't even write anything. Richard holds up his phone. Her snap is just ! -- the fire emoji -- huge. \
+LAURIE: It's disrespectful to screenshot snaps. \
+RICHARD: It was hard with your one second timer. \
+LAURIE: I'm setting up interviews for your replacement and we'd like you to participate. This is a small town; the board wants everyone to know you're on board with the board. \
+RICHARD: There's no way I'm gonna help you hire someone else. \
+LAURIE: Well if you don't, Pied Piper might experience a little "compression" of its own. 3. \
+RICHARD: What? \
+LAURIE: Just a little wordplay. No, it means we'll fire you. Richard holds up his phone ("you already did that"). \
+LAURIE: We're "managing you out" of the CEO role, not Pied Piper itself. No one knows more about the tech than you do. \
+RICHARD: So...you're looking for a CEO with a little less experience? \
+LAURIE: We're looking for a CEO, period. RICHARD (flustered) I'm already...this company was... LAURIE And there's the problem, isn't it. A leader campaigns in poetry and governs in prose. You sound like Siri having a stroke. \
+RICHARD: I wrote almost every line of code in Pied Piper. Every function, every class, every library. LAURIE And you're a gifted coder, no question. But a leader has command. A leader has presence. You're smart beyond compare, Richard. But you are not a CEO. Laurie walks out. \
+RICHARD: (convincing himself) I have presence. A beat. And then the automatic office lights turn off, unaware our hapless hero is still down on the floor. The pitch blackness gives way to... 4.\
+DINESH: Isn't it weird how fun it sounds to get laid off? Like, everyone wants to get laid. And everyone wants to get off. But nobody wants to get laid off. \
+GILFOYLE: I wouldn't mind your mom's pink slip. \
+DINESH: Well, your ex did put you on a performance improvement plan. \
+ERLICH: This is so fucked. His name's on the door and they shat all over him anyway, just to hire some suit. It's like firing Captain Crunch. (roleplaying) Hey kids, sorry I didn't have time to get my MBA while I was pioneering the entire field of maritime breakfast. You'll just have to bend over for Admiral Wharton's plank instead. \
+GILFOYLE: Are you saying that Captain Crunch was on a career path to pedophilia? \
+ERLICH: I'm saying he deserved a chance to find out. \
+DINESH: I don't even understand how this is possible. Richard is the firer, not the firee. He's the boss. \
+JARED: Actually, it's a common misconception that the CEO is the final authority. She serves at the pleasure of the shareholders. }

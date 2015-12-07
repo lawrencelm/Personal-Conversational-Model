@@ -6,9 +6,20 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import LogisticRegression
+from sklearn import svm
 
+from sklearn.linear_model import SGDClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import AdaBoostClassifier
+from sklearn.ensemble import GradientBoostingClassifier
 
-fname = "friends-season1.txt"
+#from samr.transformations import POSTagger
+#from samr.transformations import (ExtractText, ReplaceText, MapToSynsets, POSTagger, SentimentChangerTagger,
+#                                  Polarity_And_Subjectivity, Densifier, ClassifierOvOAsFeatures)
+
+fname = "friends-lexicon.txt"
 with open(fname) as f:
     replies = []
     for reply in f.readlines():
@@ -25,6 +36,19 @@ with open(fname) as f:
                     word = word.replace("(","")
                 if ")" in word:
                     word = word.replace(")","")
+                if "?" in word:
+                    word = word.replace("?", " ")
+                if "[" in word and "]" in word:
+                    ind2 = word.find("]")
+                    ind1 = word.find("[")
+                    word = word[:ind1] + word[ind2:]
+                if "]" in word:
+                    word = word.replace("]", " ")
+                if "[" in word:
+                    word = word.replace("[", " ")
+                if "." in word:
+                    word = word.replace(".", " ")
+
                 if len(word) != 0:
                     last_ch = word[len(word)-1]
                     if last_ch is "." or last_ch is "!" or last_ch is "?" or last_ch is ";" or last_ch is ",":
@@ -73,9 +97,15 @@ X_test = np.array(['hello',
 
 classifier = Pipeline([
     ('vectorizer', CountVectorizer(ngram_range=tuple([1,2]))),
-#    ('tfidf', TfidfTransformer()),
-    ('clf', MultinomialNB(alpha=0, class_prior=None, fit_prior=True))])
-    #('clf',  MultinomialNB(alpha=0, class_prior=None, fit_prior=True))])
+    ('tfidf', TfidfTransformer()),
+
+#    ('pos', POSTagger()),
+    #('clf', MultinomialNB(alpha=0, class_prior=None, fit_prior=True))])
+    #('clf', svm.SVC(decision_function_shape='ovo'))]) #1 - bad
+    #('clf', svm.LinearSVC())]) #2 - good
+    ('clf', OneVsRestClassifier(LinearSVC()))]) #4 - good
+    #('clf',  MultinomialNB(alpha=0, class_prior=None, fit_prior=True))]) - decent
+    #('clf', SGDClassifier())]) #5 
 
 for i in range(X_train.size):
     print str(X_train[i]) + " >>>> " + str(y_train[i])
@@ -107,7 +137,7 @@ while True:
         	not_reply_end = False
         elif nextWord[0] == lastWord:
             not_reply_end = False
-        #print nextWord
+        print "predicting.." + str(nextWord)
         response = response + " " + nextWord[0]
         nextSequence = utterance + " " + nextWord[0]
         #print nextSequence
