@@ -1,0 +1,234 @@
+A: I'd like to reserve a hotel room.
+B: That should be no problem. May I have your full name, please?
+A: My name is John Sandals.
+B: Hello, Mr. Sandals. My name is Michelle. What days do you need that reservation, sir?
+A: I'm planning to visit New York from Friday, April 14 until Monday, April 17. 
+B: Our room rates recently went up. Is that okay with you, Mr. Sandals?
+A: How much per night are we talking about?
+B: Each night will be $308.
+A: That price is perfectly acceptable.
+B: Wonderful! Do you prefer a smoking or nonsmoking room?
+A: Nonsmoking, please.
+B: Next question: Is a queen-size bed okay?
+A: That sounds fine.
+B: Okay, Mr. Sandals. Your reservation is in our computer. All we need now is a phone number.
+A: Certainly. My phone number is 626-555-1739.
+B: Thank you, Mr. Sandals. We look forward to seeing you in New York!
+
+A: Hi there, I want to reserve a hotel room.
+B: No problem at all. Could I have your full name, please?
+A: Sure, John Sandals.
+B: Hi, Mr. Sandals. I'm Michelle, at your service. When do you need the room? 
+A: My plans are to be there April 14th to the 17th. 
+B: We have new room rates, sir. Will that be acceptable to you?
+A: It depends on the price, of course. What is it?
+B: It's $308 a night.
+A: I have no problem with that.
+B: Great! Would you prefer smoking or nonsmoking?
+A: Definitely nonsmoking. I can't handle that smell.
+B: Nonsmoking. Now, is a queen-size bed okay?
+A: No problem.
+B: Great, Mr. Sandals. Your reservation is confirmed. Now all I need is your phone number.
+A: Of course! It's area code 626-555-1739.
+B: Thank you so much, Mr. Sandals. We look forward to seeing you!
+
+A: I need to reserve a room.
+B: Not a problem. May I have your name, please?
+A: Of course. I'm John Sandals.
+B: Hi, sir. My name is Michelle. Could you tell me when you need the room?
+A: Right now. I plan to be there in April from the 14th to the 17th. 
+B: Perhaps you didn't know that we have new room rates. Do you find that acceptable, sir?
+A: Maybe. How much is a room?
+B: The price per night is $308.
+A: That sounds fine to me.
+B: Fantastic! Would you like a smoking or nonsmoking room?
+A: I hate cigarettes! Nonsmoking.
+B: That'll be nonsmoking. Now, do you approve of a single queen-size bed?
+A: That'll be no problem.
+B: I'm happy to hear that, sir. Your reservation is all set except for your phone number.
+A: Sure! My number is 626-555-1739.
+B: 626-555-1739. Thank you for doing business with us, Mr. Sandals.
+
+A: I need a hotel room.
+B: That's no problem at all. May I have your name, please?
+A: Certainly. My name is John Sandals.
+B: It's a pleasure, Mr. Sandals. My name is Michelle. What days will you need a room?
+A: Friday afternoon, April 14 through Monday morning, April 17.
+B: One minor problem, sir. Our prices are now slightly higher. Is that acceptable, sir?
+A: Please tell me the price, so I can make a decision.
+B: It'll be $308 nightly.
+A: That's a reasonable price.
+B: Good! Now, sir, do you have a preference for smoking or nonsmoking?
+A: I quit smoking, so nonsmoking.
+B: I hear you, sir. Nonsmoking. Now, about the bed, is a queen-size okay?
+A: A queen sounds great.
+B: Okay, sir, let me reserve those dates, there. Now, if you'll just tell me your phone number.
+A: That would be 626-555-1739.
+B: That's 626-555-1739. Thank you so much for choosing our hotel, sir!
+
+A: I need a room for a few days.
+B: That won't be a problem. Could you please tell me your name?
+A: John Sandals. That's S A N D A L S.
+B: Sir, I'm Michelle, and I run the front desk. Please tell me the days you'll be here.
+A: I'll be there in April: Friday through Monday, the 14th through the 17th.
+B: We recently changed many things here, sir, including our prices. Do you mind, sir?
+A: Possibly. What's the actual price?
+B: The price will be $308 a night.
+A: $308! That's not bad.
+B: Very good. Now, Mr. Sandals, about the room, smoking or nonsmoking?
+A: Nonsmoking, definitely! 
+B: Most of our clients prefer nonsmoking. Now, does a queen sound okay?
+A: Yes, that'll be just fine.
+B: One more second, sir. Your reservation is now verified, so all I need is your phone number.
+A: It's 626-555-1739.
+B: Let me repeat that: 626-555-1739. Okay, sir, we look forward to seeing you in April!
+
+A: Can I reserve a hotel room? 
+B: I assure you, that's not a problem. What is your full name, please? 
+A: My name's John Sandals.
+B: It's a pleasure to assist you. Please tell me when you'll be needing the room, sir.
+A: If my plans don't change, I'll need a room April 14 till April 17.
+B: Sir, our room prices are slightly higher than you may have thought. Will that be okay?
+A: Tell me how much it will be, and I can tell you if it's okay.
+B: Only $308 per night, before taxes, of course.
+A: $308 a night? That's a fair price.
+B: Now, as for the room, sir, do you prefer smoking or nonsmoking?
+A: Nonsmoking, please.
+B: Nonsmoking. Now, sir, does a single queen-size bed meet your approval?
+A: I have absolutely no problem with that.
+B: Queen, nonsmoking. Okay, sir, your room is reserved. Now if you'll just give me your phone number. 
+A: Not a problem. The number is 626-555-1739. 
+B: Thank you for making a reservation with us. We look forward to seeing you in April!
+
+A: I'd like to order dinner.
+B: What would you like?
+A: I'd like to order a bottle of champagne, lobster tail, and filet mignon, medium rare.
+B: I'm sorry. We're currently out of filet mignon. May I suggest the porterhouse instead?
+A: I'd prefer the filet, but the porterhouse will do.
+B: And may I suggest chocolate-covered strawberries with the champagne?
+A: Normally, I would take you up on that suggestion, but just the champagne will do for tonight.
+B: Okay, no strawberries. Room service will be charged to your amenities account. Is that all right?
+A: That's fine.
+B: It will be up shortly. Enjoy your food, sir.
+
+A: Could I order dinner?
+B: Of course. What would you like?
+A: I want a bottle of champagne, lobster tail, and filet mignon, medium rare.
+B: I'm so sorry. We ran out of filet mignon. May I suggest the porterhouse instead?
+A: That's too bad, but the porterhouse will be okay.
+B: May I be so bold as to suggest chocolate-covered strawberries with the champagne?
+A: Not tonight, thank you.
+B: No strawberries. We'll charge your amenities account, if that's okay.
+A: Charge it to whatever account you like.
+B: Your meal will be delivered as soon as it's all ready. Enjoy!
+
+A: Could you bring me some food, please?
+B: Sure. What do you fancy?
+A: Can I have a bottle of champagne, lobster tail, and filet mignon, medium rare?
+B: Sir, the filet mignon was so popular tonight that we ran out. May I suggest the porterhouse?
+A: No filet? Okay, porterhouse will be fine then.
+B: Perhaps you would like chocolate-covered strawberries with the champagne?
+A: Not tonight, but thank you for the suggestion.
+B: Okay. This will be charged to your amenities account, okay?
+A: No problem.
+B: Your food will be brought to you momentarily. I hope you enjoy it.
+
+A: I'd like you to bring me some food.
+B: Just name it, sir.
+A: Please send up a bottle of champagne, lobster tail, and filet mignon, medium rare.
+B: Regrettably, we're currently out of filet mignon. May I suggest the porterhouse instead?
+A: Sure, I love porterhouse, too.
+B: Would you be interested in chocolate-covered strawberries with the champagne?
+A: I'd love to, but I'm allergic to strawberries.
+B: Okay, no strawberries tonight. The items will be charged to your amenities account.
+A: Go right ahead.
+B: Our staff will bring you your order in as short a time as possible. 
+
+A: I need something to eat, please.
+B: Tell me what you're hungry for.
+A: I feel like champagne, lobster tail, and filet mignon, medium rare.
+B: Unfortunately, we're out of filet mignon at the moment. May I suggest the porterhouse instead?
+A: I prefer filet, but porterhouse is good, too.
+B: Perhaps I could interest you in chocolate-covered strawberries with the champagne?
+A: Just the champagne will be fine, thank you.
+B: You'll see this charge on your amenities account.
+A: That's fine.
+B: It won't be long until your food is delivered. I know you'll enjoy it.
+
+A: Can I order something from the kitchen?
+B: Just tell me what you'd like, please.
+A: A bottle of champagne, lobster tail, and filet mignon, medium rare would hit the spot.
+B: I hate to tell you this, but we have no more filet mignon. May I suggest the porterhouse instead?
+A: Sure! Right now, I would even eat hamburger!
+B: Have you ever tried chocolate-covered strawberries with champagne? 
+A: Thank you, but I just finished eating some chocolate-covered cherries. 
+B: That'll be a bottle of champagne, lobster tail, and porterhouse, all charged to your amenities account.
+A: Not a problem.
+B: Please call if you have any other requests. Your food will be delivered promptly.
+
+A: I have a reservation. My name is John Sandals.
+B: May I see your ID, please, Mr. Sandals?
+A: Certainly. Here it is.
+B: Thank you. Do you have a credit card, Mr. Sandals?
+A: Yes, I do. Do you accept American Express?
+B: Sorry, sir, just VISA or MasterCard.
+A: Here's my VISA card.
+B: Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?
+A: Yes, it sounds like everything I expected.
+B: Here's your key, sir. If you need anything, just dial 0 on your room phone.
+
+A: I have a reservation under the name of Sandals.
+B: Could I see your ID, please, sir?
+A: Of course! Let me take it out of my wallet.
+B: Thank you, sir. Now, do you have a credit card, sir?
+A: Yes, of course. Is American Express okay?
+B: I'm sorry, sir. Only VISA or MasterCard.
+A: In that case, here's my VISA.
+B: Thank you. Your room number is 507, queen bed, nonsmoking. Is that agreeable to you, sir?
+A: Yes, I'm easy to please.
+B: Very good. Here is your room key, sir. If you need anything at all, please dial 0.
+
+A: My name is Sandals, I have a reservation.
+B: May I see your identification, please, sir?
+A: Here you are.
+B: Thanks. Do you have a credit card, sir?
+A: Of course. Will American Express do?
+B: I'm very sorry, sir. We accept only VISA or MasterCard.
+A: No problem. Here's my VISA.
+B: Thanks. Room 507 is a spacious, nonsmoking room, with a queen bed. Does that meet your expectations?
+A: Yes, that sounds like what I want.
+B: That's wonderful, sir. Now, here's your key. Should you need anything, just dial 0.
+
+A: I'm John Sandals, and I have a reservation.
+B: Would you show me your ID, sir, please?
+A: Here you go.
+B: Thank you very much. Now, sir, do you have a credit card?
+A: Certainly! Would you like my American Express card?
+B: Regrettably, Mr. Sandals, we accept only MasterCard or VISA.
+A: I thought American Express was accepted everywhere. Never mind. Here's my VISA.
+B: Thanks. You're in room 507, a big, nonsmoking room, with a queen bed. Is that okay, sir?
+A: Yes, that's just fine.
+B: I'm happy to hear that. Here is your key. Just dial 0 if you need anything.
+
+
+A: My name is John Sandals, and I've got a reservation.
+B: May I see some identification, sir, please?
+A: Sure. Here you are.
+B: Thank you so much. Have you got a credit card, Mr. Sandals?
+A: I sure do. How about American Express?
+B: Unfortunately, at the present time we take only MasterCard or VISA.
+A: No American Express? Okay, here's my VISA.
+B: Thank you, sir. You'll be in room 507, nonsmoking, with a queen-size bed. Do you approve, sir? 
+A: Yes, that'll be fine.
+B: That's great. This is your key, sir. If you need anything at all, anytime, just dial zero.
+
+A: I've got a reservation here. My name is John Sandals.
+B: Mr. Sandals, may I see your ID, please? 
+A: One second, please, while I dig it out here. 
+B: Now, sir, do you have a credit card?
+A: Yes, I do. Do you accept American Express?
+B: I'm sorry, Mr. Sandals, but we accept only MasterCard or VISA.
+A: That's okay, I've got plenty of cards. Here's my VISA.
+B: Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?
+A: Yes, that's just what I wanted. 
+B: Here's your key, sir. If you need anything, just dial 0 on your room phone.
