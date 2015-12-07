@@ -1,0 +1,2197 @@
+A: Hi, how are you doing?
+B: I'm fine. How about yourself?
+A: I'm pretty good. Thanks for asking.
+B: No problem. So how have you been?
+A: I've been great. What about you?
+B: I've been good. I'm in school right now.
+A: What school do you go to?
+B: I go to PCC.
+A: Do you like it there?
+B: It's okay. It's a really big campus.
+A: Good luck with school.
+B: Thank you very much.
+A: How's it going?
+B: I'm doing well. How about you?
+A: Never better, thanks.
+B: So how have you been lately?
+A: I've actually been pretty good. You?
+B: I'm actually in school right now.
+A: Which school do you attend?
+B: I'm attending PCC right now.
+A: Are you enjoying it there?
+B: It's not bad. There are a lot of people there.
+A: Good luck with that.
+B: Thanks.
+A: How are you doing today?
+B: I'm doing great. What about you?
+A: I'm absolutely lovely, thank you.
+B: Everything's been good with you?
+A: I haven't been better. How about yourself?
+B: I started school recently.
+A: Where are you going to school?
+B: I'm going to PCC.
+A: How do you like it so far?
+B: I like it so far. My classes are pretty good right now.
+A: I wish you luck.
+B: Thanks a lot.
+A: It's an ugly day today.
+B: I know. I think it may rain.
+A: It's the middle of summer, it shouldn't rain today.
+B: That would be weird.
+A: Yeah, especially since it's ninety degrees outside.
+B: I know, it would be horrible if it rained and it was hot outside.
+A: Yes, it would be. 
+B: I really wish it wasn't so hot every day. 
+A: Me too. I can't wait until winter.
+B: I like winter too, but sometimes it gets too cold.
+A: I'd rather be cold than hot.
+B: Me too.
+A: It doesn't look very nice outside today.
+B: You're right. I think it's going to rain later.
+A: In the middle of the summer, it shouldn't be raining.
+B: That wouldn't seem right.
+A: Considering that it's over ninety degrees outside, that would be weird.
+B: Exactly, it wouldn't be nice if it started raining. It's too hot.
+A: I know, you're absolutely right.
+B: I wish it would cool off one day.
+A: That's how I feel, I want winter to come soon.
+B: I enjoy the winter, but it gets really cold sometimes.
+A: I know what you mean, but I'd rather be cold than hot.
+B: That's exactly how I feel.
+A: I wish it was a nicer day today.
+B: That is true. I hope it doesn't rain.
+A: It wouldn't rain in the middle of the summer.
+B: It wouldn't seem right if it started raining right now.
+A: It would be weird if it started raining in ninety degree weather.
+B: Any rain right now would be pointless.
+A: That's right, it really would be.
+B: I want it to cool down some.
+A: I know what you mean, I can't wait until it's winter.
+B: Winter is great. I wish it didn't get so cold sometimes though.
+A: I would rather deal with the winter than the summer.
+B: I feel the same way.
+A: Have you seen the new girl in school?
+B: No, I haven't.
+A: She's really pretty.
+B: Describe her to me.
+A: She's not too tall.
+B: Well, how tall is she?
+A: She's about five feet even.
+B: What does she look like, though?
+A: She has pretty light brown eyes.
+B: I may know which girl you're talking about.
+A: So you have seen her around?
+B: Yes, I have.
+A: There's a new girl in school, have you seen her yet?
+B: I haven't seen her yet.
+A: I think that she is very pretty.
+B: Tell me how she looks.
+A: She's kind of short.
+B: What height is she?
+A: She's probably about five feet.
+B: That's nice, but tell me what she looks like.
+A: The first thing I noticed was her beautiful brown eyes.
+B: I think I might've bumped into her before.
+A: Are you telling me that you've seen her before?
+B: I believe so.
+A: Have you met the new girl?
+B: No. Have you?
+A: She's one of the prettiest girls at the school.
+B: What does she look like?
+A: Well, she's quite short.
+B: How tall would you say that she is?
+A: I would say she's only five feet.
+B: What about her facial features?
+A: She has light brown eyes, absolutely beautiful.
+B: I think I know who you're talking about.
+A: Have you seen her?
+B: I think that I have.
+A: Why weren't you at school yesterday?
+B: I wasn't really feeling well.
+A: What was wrong with you?
+B: My stomach was upset.
+A: Do you feel better now?
+B: I don't really feel too well yet.
+A: Do you want anything to make you feel better?
+B: No, thanks. I already took some medicine.
+A: I hope you feel better.
+B: Thank you.
+A: What reason do you have for missing school?
+B: I was sick.
+A: How were you sick?
+B: I had a stomachache.
+A: Did it get any better?
+B: I'm still feeling under the weather.
+A: Would you like anything for your stomach?
+B: I took something earlier.
+A: Get better.
+B: Thanks a lot.
+A: Why didn't you go to school yesterday?
+B: I stayed home because I wasn't feeling well.
+A: What was your problem?
+B: My stomach was bothering me.
+A: Are you feeling any better?
+B: I'm still feeling a little sick.
+A: I'm going to the store, would you like any Pepto Bismol?
+B: That's okay.
+A: I hope you feel better.
+B: I'd appreciate that.
+A: Did you hear the good news?
+B: No, I haven't.
+A: I got a promotion at my job.
+B: Did you really?
+A: Seriously, I am so excited.
+B: Well, congratulations.
+A: Thank you.
+B: I'm so happy for you.
+A: Really?
+B: Yes. You really deserved this.
+A: You think so?
+B: Yes. Good for you.
+A: Have you heard my good news?
+B: You haven't told me anything yet.
+A: I got a promotion at work earlier this week.
+B: Is that right?
+A: It's the truth. I am really happy.
+B: Congratulations on your promotion.
+A: Thank you very much.
+B: I am really excited for you.
+A: Are you really?
+B: I'm serious. You deserved this promotion.
+A: Is that what you really think?
+B: Yes, I do.
+A: I haven't told you what happened yet, have I?
+B: I haven't heard anything.
+A: My boss offered me a promotion, and I took it.
+B: Are you serious?
+A: Yes, I am really excited.
+B: That's great. Congratulations.
+A: I appreciate that.
+B: You have no idea how happy I am for you.
+A: For real?
+B: I believe you were the best choice for that promotion. I really do.
+A: It was nice talking to you.
+B: Why are you trying to rush me off the phone?
+A: I really have to go.
+B: Why? I still wanted to talk to you.
+A: I have things to do.
+B: Like what?
+A: Don't be nosey.
+B: I'm not. I just want to know.
+A: Well, it's really none of your business.
+B: That's harsh.
+A: I'm sorry, but I have to go.
+B: Fine.
+A: I've enjoyed conversing with you.
+B: Is there a reason why you're trying to get off the phone so fast?
+A: I've got to go.
+B: I wasn't done talking to you.
+A: I have to do some things, and besides, it's not polite to be nosey.
+B: I'm not being nosey. I'm just asking.
+A: I really don't think it's any of your business.
+B: That's not nice.
+A: I apologize, but I'm getting off the phone now.
+B: Okay.
+A: I'll talk to you later.
+B: What's the rush?
+A: I have to get off the phone now.
+B: I'm not ready to get off the phone with you.
+A: There are other things I need to take care of.
+B: What is it that you need to do? 
+A: Please don't be nosey.
+B: I'm not being nosey, it's just a question.
+A: You don't need to worry about that.
+B: That was mean to say.
+A: I am very sorry, but I must go.
+B: I guess.
+A: Well, it was nice talking to you.
+B: It was nice talking to you too.
+A: We should really hang out again.
+B: That would be fun.
+A: Where do you want to go?
+B: I think we should go out to eat.
+A: That sounds good.
+B: All right, so I'll see you then.
+A: I'll call you later.
+B: Okay, I'll talk to you later then.
+A: See you later.
+B: Bye.
+A: I enjoyed talking to you.
+B: I enjoyed talking to you too.
+A: We should hang out some time.
+B: I think that would be nice.
+A: Is there anything you would like to do next time?
+B: Do you want to go out to eat?
+A: I'd like that.
+B: So I'll see you next time.
+A: I'm going to call you soon. 
+B: I'll talk to you later.
+A: See you soon.
+B: Goodbye.
+A: I had fun talking to you.
+B: It was really nice talking to you also.
+A: I think we should really do something sometime.
+B: That should be loads of fun.
+A: What do you want to do next time?
+B: Would you like to go to dinner or something?
+A: Yeah, let's do that.
+B: Okay, until next time then.
+A: I'll call you so we can set that up.
+B: Talk to you then.
+A: All right, see you.
+B: See you.
+A: Hello, may I speak to Alice please?
+B: This is she. How's it going?
+A: I've been trying to call you all day.
+B: Sorry about that. I was cleaning up.
+A: It's okay.
+B: So what were you calling me about?
+A: Oh, I just wanted to see if you wanted to hang out tomorrow.
+B: Sure, what did you want to do?
+A: Maybe we can go see a movie or something.
+B: That sounds like fun. Let's do it.
+A: I'll see you tomorrow then.
+B: See you then. Goodbye.
+A: Hi, how are you. Is Alice there?
+B: Speaking. What's up?
+A: Why haven't you answered the phone?
+B: My bad, I had chores to do.
+A: That's all right.
+B: What was the reason for your call?
+A: I want to do something tomorrow with you.
+B: Sounds good. What did you have in mind?
+A: I was thinking about seeing a movie.
+B: Okay, let's go see a movie.
+A: Until then.
+B: Talk to you later.
+A: Is Alice available?
+B: You're talking to her.
+A: I've called you a hundred times today.
+B: I was busy doing something. I apologize.
+A: No problem.
+B: Did you need something?
+A: Did you want to do something tomorrow?
+B: Is there somewhere special you wanted to go?
+A: How about a movie?
+B: A movie sounds good.
+A: Call me tomorrow then.
+B: I will see you tomorrow.
+A: It's such a nice day.
+B: Yes, it is.
+A: It looks like it may rain soon.
+B: Yes, and I hope that it does.
+A: Why is that?
+B: I really love how rain clears the air.
+A: Me too. It always smells so fresh after it rains.
+B: Yes, but I love the night air after it rains.
+A: Really? Why is it?
+B: Because you can see the stars perfectly.
+A: I really hope it rains today.
+B: Yeah, me too.
+A: Isn't it a nice day?
+B: It really is.
+A: It seems that it may rain today.
+B: Hopefully it will.
+A: How come?
+B: I like how clear the sky gets after it rains.
+A: I feel the same way. It smells so good after it rains.
+B: I especially love the night air when it rains.
+A: Really? Why?
+B: The stars look so much closer after it rains.
+A: I really want it to rain today.
+B: Yeah, so do I.
+A: Don't you think it's nice out?
+B: Yes, I think so too.
+A: I think that it's going to rain.
+B: I hope that it does rain.
+A: You like the rain?
+B: The sky looks so clean after it rains. I love it.
+A: I understand. Rain does make it smell cleaner.
+B: I love most how it is at night after it rains.
+A: How come?
+B: You can see the stars so much more clearly after it rains.
+A: I would love for it to rain today.
+B: I would too.
+A: I really want to go to the beach this weekend.
+B: That sounds like fun. What's the weather going to be like?
+A: I heard that it's going to be warm this weekend.
+B: Is it going to be perfect beach weather?
+A: I believe so.
+B: Good. I hope it doesn't cool off this weekend.
+A: I know. I really want to go to the beach.
+B: But you know that California weather is really unpredictable.
+A: You're right. One minute it's hot, and then the next minute it's cold.
+B: I really wish the weather would just stay the same.
+A: I do too. That way we can have our activities planned ahead of time.
+B: Yeah, that would make things a lot easier.
+A: I would like to take a trip to the beach this weekend.
+B: A trip to the beach would be fun. How is the weather going to be?
+A: The forecast says that it will be warm on the weekend.
+B: So do you think it'll be perfect weather for the beach?
+A: It sounds like it will be.
+B: I really hope it doesn't get cold.
+A: That would ruin things, I want to go so badly.
+B: The weather in California is unpredictable, so you never know.
+A: That is true. The weather is constantly changing.
+B: It would be nice if the weather would never change.
+A: That would be great, then we could plan things sooner.
+B: True. Predictable weather would make life easier.
+A: It would be nice to go to the beach sometime this weekend.
+B: What's the weather going to be like? I may want to go too.
+A: The weather this weekend is supposed to be warm.
+B: Will it be good beach weather?
+A: I think it will be.
+B: It wouldn't be good if it got cold this weekend.
+A: I want this trip to be perfect, I hope it stays warm.
+B: This California weather is so uncertain, it's impossible to know what'll happen.
+A: I know. Every day the weather seems different.
+B: I would love it if it wasn't always so unpredictable.
+A: That would make it easier for us to make plans.
+B: I know. Things are easier when you know what the weather's going to be like.
+A: Did you go to school today?
+B: Of course. Did you?
+A: I didn't want to, so I didn't.
+B: That's sad, but have you gone to the movies recently?
+A: That's a switch.
+B: I'm serious, have you?
+A: No, I haven't. Why?
+B: I really want to go to the movies this weekend.
+A: So go then.
+B: I really don't want to go by myself.
+A: Well anyway, do you plan on going to school tomorrow?
+B: No, I think I'm going to go to the movies.
+A: Did you make it to school today?
+B: I always do. Did you go to school today?
+A: No, I didn't.
+B: You should have, but have you seen any movies lately?
+A: That was an odd change of subject.
+B: Maybe it was, but answer the question.
+A: No, not recently.
+B: I want to go to see a movie this weekend.
+A: What's stopping you then?
+B: I don't want to go alone.
+A: So, will you be at school tomorrow?
+B: No, I want to go to the movies instead.
+A: Did you even bother to go to school today?
+B: Yeah, I went. Did you go?
+A: No, I didn't feel like it.
+B: That's nice, have you been to the movies lately?
+A: No, but that was a random change of subject.
+B: It may have been random, but have you?
+A: I haven't lately.
+B: I would love to catch a movie this weekend.
+A: So then, why don't you just go?
+B: I don't want to see a movie by myself.
+A: Okay, so are you going to school tomorrow?
+B: I think I might just go to the movies.
+A: Did you hear the news?
+B: What happened?
+A: Our cousin went into labor and had her baby last week.
+B: She did? Why didn't anyone tell me?
+A: I would've thought that somebody would have told you.
+B: No, I had no idea.
+A: Well, she did, her baby was 8 pounds 6 ounces.
+B: Oh my God, that's great!
+A: Are you going to go and visit her and the baby?
+B: I think that I might.
+A: Good! I just thought I'd let you know.
+B: Thanks for telling me.
+A: Have you heard what happened?
+B: Heard what?
+A: Debrah already had her baby.
+B: I didn't know that.
+A: I thought you knew.
+B: I honestly didn't know.
+A: The baby was 8 pounds 6 ounces.
+B: That's good to hear.
+A: Will you go and visit them?
+B: Of course I will.
+A: I just wanted to give you the good news.
+B: Thanks for letting me know.
+A: Have you heard the news?
+B: I haven't heard anything.
+A: Debrah had her baby last week.
+B: Nobody told me.
+A: I thought you heard.
+B: I really wasn't told anything.
+A: She was a cute 8 pounds 6 ounces.
+B: Wow, how exciting.
+A: I know, you should really go and see her and the baby.
+B: Of course I will.
+A: I just wanted to let you know what happened.
+B: I appreciate that.
+A: Thanks for coming to see me today.
+B: It's no problem. I was really missing you anyway.
+A: I missed you too.
+B: Why haven't you tried to come see me then?
+A: I've been really busy.
+B: Doing what?
+A: Working.
+B: I would've come to see you sooner, but I've been busy too.
+A: What have you been doing?
+B: I've been working too.
+A: Well regardless, I'm very happy that you came to see me.
+B: I am too.
+A: I'm really glad that you came to see me.
+B: I had to. I was missing you a lot.
+A: I was missing you too.
+B: So, why haven't you visited me?
+A: I've actually been busy lately.
+B: What have you been doing?
+A: I've just been working really hard.
+B: I've also been busy.
+A: Tell me what you've been doing.
+B: Basically, I've been working too.
+A: Well whatever, I'm glad you came.
+B: So am I.
+A: I'm really happy that you came to visit me.
+B: I really missed you a lot.
+A: I've been missing you like crazy.
+B: I don't understand why you haven't come to visit me.
+A: Lately, I've been quite busy.
+B: Tell me what you've been up to.
+A: I've really been working a lot lately.
+B: I've been pretty busy myself.
+A: So what have you been up to?
+B: I've just been working a lot.
+A: Whatever the reason may be, I'm glad you visited me.
+B: I'm glad I did too.
+A: Hey, did you hear about Jessica's party this weekend?
+B: Yeah, but I'm still waiting for my invitation.
+A: Oh really? She gave me mine earlier today.
+B: Well, she'll probably just give me my invitation later on today.
+A: Yeah, so are you planning on going?
+B: I think so. It sounds like it's going to be a lot of fun.
+A: It really does, I can't wait.
+B: What time does the party start?
+A: It starts at 8 o'clock.
+B: Oh, well, how many people has she given invites to so far?
+A: I'm not sure, but I don't think she's given out that many.
+B: Well, hopefully she'll give me my invite later on today.
+A: Have you heard about Jessica's party on Saturday?
+B: I've heard about it, but I'm still waiting for my invitation.
+A: Really? I got mine from her this morning.
+B: I'm guessing that she's going to give me my invite today or tomorrow.
+A: You're probably right, do you intend on going to the party?
+B: I want to. I heard it's going to be really fun.
+A: I know, it does sound pretty awesome.
+B: Well, when does the party start?
+A: It's supposed to start at about eight.
+B: How many invitations has she given out?
+A: I really don't know, but I don't think she gave out that many yet.
+B: I really want to go, so I hope that she gives me my invite soon.
+A: Has anyone told you about Jessica's party coming up?
+B: I was told about it already. I'm just waiting for my invitation.
+A: Is that right? I already got my invitation from her earlier.
+B: I believe that she will give me the invitation today.
+A: Are you even going to go?
+B: Yeah, it sounds like it's going to be the best party of the year.
+A: Exactly, it seems like it's going to be loads of fun.
+B: When exactly does the party start?
+A: The invitation says it starts at 8:00 p.m.
+B: Has she given out a lot of invitations yet?
+A: I have no idea, she hasn't given out many though.
+B: I'm planning on going, but I really need her to give me my invitation.
+A: You look really nice today. 
+B: Thank you. I just got this outfit the other day.
+A: Really, where did you get it?
+B: I got it from Macy's.
+A: It's really nice.
+B: Thanks again. You look nice today, too.
+A: Thank you. I just got these shoes today.
+B: Really? What kind of shoes are they?
+A: These are called All Star Chuck Taylors.
+B: I really like those. How much did they cost?
+A: They were about forty dollars.
+B: I think I'm going to go buy myself a pair.
+A: I absolutely love what you're wearing today.
+B: You do? I just bought this outfit a couple days ago.
+A: Seriously, it looks really nice on you. Where did you buy it from?
+B: I bought it from the Macy's at the Santa Anita mall.
+A: I really like that outfit.
+B: Thanks. I think you look nice today, too.
+A: Thank you. I just bought these new shoes earlier today.
+B: Those are nice. What are they?
+A: These are some Chucks.
+B: Those are great. How much were they?
+A: I got them for forty.
+B: I think I might go and find me my own pair of Chucks.
+A: I think that you look very cute today.
+B: Is that right? This is a brand new outfit.
+A: What store did you get it from?
+B: I went to Macy's and picked it out.
+A: I love your outfit right now.
+B: Well, I think you look nice today too.
+A: Thanks. I found these new shoes earlier at the store.
+B: I think that those are some really nice shoes. What kind are they?
+A: These are Chucks.
+B: Your shoes look really nice. How much did you get them for?
+A: They only cost me about forty dollars.
+B: I'm going to go get a pair for myself.
+A: Tell me, what do you enjoy doing in your spare time?
+B: I enjoy drawing and painting.
+A: You know how to draw and paint?
+B: Yes, I do.
+A: When did you learn how to do that?
+B: I learned back in high school.
+A: Oh, so you took an art class?
+B: Yeah, I loved that class.
+A: I see that you're pretty talented.
+B: Thank you very much.
+A: I wish I had a talent like that.
+B: I'm sure you have a talent. It's just hidden.
+A: What kinds of things do you like to do?
+B: I've always liked to draw and paint.
+A: I didn't know you knew how to draw and paint.
+B: I do it every once in a while.
+A: How long have you known how to do that?
+B: I first learned how to do it in high school.
+A: Did you take some sort of art class or something?
+B: That was my favorite class.
+A: You have got to be talented.
+B: Thanks.
+A: If only I was talented.
+B: You have a talent. You just don't know what it is yet.
+A: Are there any hobbies you do?
+B: When I have time, I sometimes draw and paint.
+A: Oh, you actually do that?
+B: Every so often, I do.
+A: Did you always know how to draw and paint?
+B: I was taught in high school how to draw and paint.
+A: You had an art class?
+B: Exactly, it was my favorite class.
+A: Well, it's good that you're so talented.
+B: I appreciate that.
+A: Talent is a great thing, I wish I had one.
+B: Everyone has a talent. They just need to find it.
+A: What type of music do you like to listen to?
+B: I like listening to different kinds of music.
+A: Like what, for instance?
+B: I enjoy Rock and R&B.
+A: Why is that?
+B: I like the different instruments that they use.
+A: That's a good reason to like something.
+B: Yeah, I think so too.
+A: What kind of music do you enjoy listening to?
+B: I enjoy listening to all kinds of music.
+A: What kind?
+B: I like to listen to Rock and R&B.
+A: Why do you like that type of music?
+B: I like the kinds of instruments that they use.
+A: I think that's an excellent reason to like something.
+B: Thanks, I feel the same way.
+A: What is your favorite kind of music?
+B: I listen to various types of music.
+A: What genres?
+B: I enjoy listening to both Rock and R&B.
+A: What interests you in that type of music?
+B: I enjoy the different types of instruments that they use.
+A: That is a perfect reason to like a certain kind of music.
+B: That's exactly what I think too.
+A: What's your favorite movie?
+B: My favorite movie is Superbad.
+A: Oh, why is that?
+B: It's the funniest movie that I've ever seen.
+A: That's true. It is a very funny movie.
+B: You've seen it before? 
+A: Yes, I saw that movie the first day it came out in theaters.
+B: Didn't you laugh through the whole movie? I did.
+A: Me too. That movie brought tears to my eyes.
+B: Mine too.
+A: I have it on DVD at my house if you want to come over and watch it.
+B: Sure, let's go.
+A: Which movie is your favorite to watch?
+B: I have to say, my favorite movie is Superbad.
+A: Is that right? Why?
+B: Honestly, it is one of the funniest movies I've seen in a long time.
+A: You're right. That movie is hilarious.
+B: I didn't think you saw that movie.
+A: I went to see it the day it came out.
+B: I was laughing through the whole movie.
+A: I couldn't help laughing, either. 
+B: Same here.
+A: I bought the movie. Would you like to come to my house and watch it?
+B: Of course.
+A: Out of every movie that you've seen, which one is your favorite?
+B: I'm going to have to say that Superbad is the best movie ever.
+A: You think so, how come?
+B: Well, Superbad is super funny.
+A: You're not lying, I found that movie absolutely hilarious.
+B: I didn't know that you saw Superbad before.
+A: I made sure to be in line to see it the first day it came out.
+B: I couldn't keep from laughing throughout the whole movie.
+A: I was laughing hysterically the whole time; my stomach muscles hurt afterwards.
+B: That's exactly how I felt.
+A: I got the movie when it came out on DVD, do you want to come over?
+B: I would love to.
+A: Did you go to the basketball game on Friday?
+B: No, I couldn't make it.
+A: You missed a really good game.
+B: Oh, really? Who won?
+A: Our school did. They played really well.
+B: Too bad I was busy. I really wanted to go.
+A: Yeah, you should have. It was really exciting.
+B: So what was the score?
+A: The score was 101-98.
+B: Man, that was a really close game.
+A: That's what made it so great.
+B: I'll make sure and make it to the next one.
+A: Were you able to attend Friday night's basketball game?
+B: I was unable to make it.
+A: You should have been there. It was intense.
+B: Is that right. Who ended up winning?
+A: Our team was victorious.
+B: I wish I was free that night. I'm kind of mad that I didn't go.
+A: It was a great game.
+B: What was the score at the end of the game?
+A: Our team won 101-98.
+B: Sounds like it was a close game.
+A: That's the reason it was such a great game.
+B: The next game, I will definitely be there.
+A: I was meaning to ask you if you saw the basketball game on Friday.
+B: I wanted to go, but I couldn't.
+A: It was a great game.
+B: It's too bad that I couldn't make it. Who won?
+A: Our team played hard and won.
+B: I really wish I went to the game.
+A: It was the best game ever.
+B: So tell me the final score.
+A: The other team lost by three points, 101-98. 
+B: It must've been a close game.
+A: It really was. You should've gone.
+B: Hopefully, I'll make it to the next one.
+A: What are you doing this weekend?
+B: I'm going to the movies with a friend. How about you?
+A: I'm not sure yet.
+B: Well, did you want to go see a movie with me?
+A: What movie are you going to see?
+B: I'm not sure yet. Is there something you want to see?
+A: There's nothing I can think of.
+B: So, did you want to go?
+A: No, thanks, maybe another time.
+B: Okay, sounds good.
+A: Do you know what you're going to do this weekend?
+B: I am going to see a movie with a friend of mine. What about you?
+A: I don't know.
+B: Would you like to see a movie with me and my friend?
+A: Do you know what movie you're going to watch?
+B: I don't know, but was there a certain movie you wanted to see?
+A: None that I can think of.
+B: Well, would you like to go?
+A: Thank you for inviting me, but I think I'll pass.
+B: All right. Another time then.
+A: You have any ideas as to what you want to do this weekend?
+B: I'm going to the movie theater with my friend. What are you going to do?
+A: I'm not quite sure yet.
+B: How about you see a movie with me and my friend?
+A: What movie are you and your friend planning on watching?
+B: Not sure. Is there a movie out that catches your eye?
+A: No good movies come to mind.
+B: Have you decided whether or not you would like to go?
+A: No, thanks. Maybe another time.
+B: For sure another day.
+A: Did you go to school today?
+B: Yeah, I went to school today. Were you there?
+A: No, I didn't go, I've been sick.
+B: That sucks. Did you want the assignments from English class?
+A: That would be nice, thank you.
+B: No problem, you're welcome.
+A: I will be glad to do the same for you when you're sick.
+B: Well, thank you. I hope to see you at school tomorrow.
+A: Have you attended school today?
+B: I attended school today. Did you?
+A: I wasn't able to attend school because I was feeling ill.
+B: I'm sorry to hear that. Would you like the assignments from English class?
+A: I would really appreciate that, thanks.
+B: It's no trouble at all.
+A: If you get sick, I'll return the favor.
+B: Thanks. See you at school tomorrow if you feel better.
+A: Have you gone to school today?
+B: I went to school today. Did you go to school?
+A: I couldn't go to school today, I was sick.
+B: That's horrible. I'd be happy to give you the assignments from English class.
+A: Thank you very much, that's kind of you.
+B: Don't mention it.
+A: When you miss a day of school, I'll be happy to give you the English assignments.
+B: That is greatly appreciated and I hope you feel well enough to go to school tomorrow.
+A: Hey, what's up?
+B: Nothing really.
+A: I'm throwing a party on Friday.
+B: I didn't realize that.
+A: You didn't?
+B: Nobody has told me anything about your party.
+A: Did you want to go?
+B: When does it start?
+A: At 8:00 p.m.
+B: I'll be there.
+A: I'd better see you there.
+B: Of course.
+A: What's going on with you?
+B: Fine. What's going on with you?
+A: I'm having a party this Friday.
+B: I had no idea.
+A: Is that right?
+B: I didn't hear anything about it.
+A: Can you go?
+B: What time?
+A: It starts at 8 o'clock.
+B: I'll go.
+A: I hope that I'll see you there.
+B: No doubt.
+A: What's going on?
+B: Not much.
+A: This Friday, I'm throwing a party.
+B: Oh really? I didn't know that.
+A: Are you serious?
+B: I haven't heard anything about it.
+A: Can you make it?
+B: What time does it start?
+A: The party starts at 8.
+B: Yeah, I think I'll go.
+A: Am I going to see you there?
+B: You will.
+A: What's going on?
+B: Nothing really, you?
+A: I'm throwing a party next Saturday.
+B: Is that right?
+A: Yeah, are you going to come?
+B: I'm sorry, I can't.
+A: Why not?
+B: I don't really want to.
+A: Well, why don't you?
+B: I hate going to parties.
+A: Well, that's okay.
+B: Yeah, sorry.
+A: What's up?
+B: Nothing, how about you?
+A: Next Saturday, I'm going to have a party.
+B: Oh, really?
+A: You are coming?
+B: Probably not.
+A: Why is that?
+B: I don't feel like going.
+A: Why not?
+B: I really can't stand going to parties.
+A: I understand, I guess.
+B: Sorry about that.
+A: What's happening?
+B: Not a lot, what about you?
+A: I'm having a party next Saturday.
+B: That's nice.
+A: Are you going to be there?
+B: I don't think so.
+A: Is there a reason why?
+B: I just really don't want to go.
+A: How come?
+B: I don't really like parties.
+A: I wish you would go, but that's okay.
+B: I'm sorry.
+A: What's up?
+B: Nothing much, what's going on?
+A: I'm having a party this Friday.
+B: Oh, really? That's nice.
+A: I wanted to see if you wanted to come.
+B: This Friday? Sorry, I already have plans.
+A: Doing what?
+B: I'm going to dinner with my family.
+A: I really wanted you to come, but I understand.
+B: Yeah, maybe next time.
+A: I'll hold you to that.
+B: Sounds like a plan.
+A: Hey, what's good with you?
+B: Not a lot. What about you?
+A: I'm throwing a party on Friday.
+B: That sounds like fun.
+A: Do you think you can come?
+B: I'm sorry. I'm already doing something this Friday.
+A: What are you going to be doing?
+B: My family and I are going to dinner.
+A: I was hoping you would come.
+B: I'll definitely try to make it the next time.
+A: I'd better see you there.
+B: All right. I'll see you next time.
+A: What's going on?
+B: Nothing really. How about you?
+A: A lot, like the party I'm having on Friday.
+B: Well, that's cool.
+A: Will you be able to make it?
+B: I'm busy this Friday. I'm sorry.
+A: What do you have to do?
+B: I'm having dinner with my family
+A: Maybe you can come next time.
+B: I'll make sure and come to your next party.
+A: I'll look for you at my next party.
+B: I'll be there.
+A: Who did you vote for?
+B: I voted for Obama.
+A: Me too.
+B: He will be a great president.
+A: Everyone likes him.
+B: He's a good speaker.
+A: And he's really smart.
+B: He will solve our problems.
+A: He will end the war.
+B: The next four years will be good years.
+A: I'll vote for him next time, too.
+B: I think everyone will.
+A: The election is next week.
+B: Who are you voting for?
+A: I'm not voting for the mayor.
+B: Why not?
+A: He made promises that he didn't keep.
+B: Like what?
+A: He promised to hire 1,000 more police officers.
+B: How many did he hire?
+A: One hundred!
+B: Maybe he had a good reason.
+A: Maybe he's just a liar.
+B: Maybe I'll vote for someone else, too.
+A: I can't believe he won the election.
+B: Only 15 percent of the voters turned out.
+A: That is a joke.
+B: Voting is so important, but people don't bother.
+A: Many people think their vote doesn't matter.
+B: The mayor won by only 2,000 votes.
+A: We're stuck with him for four more years.
+B: Voting is so easy. You can even mail your ballot in.
+A: All you have to do is vote and put a stamp on it.
+B: How easy is that?
+A: I guess people just don't care.
+B: They'll care when they see their taxes go up.
+A: Well, we have a new president.
+B: But we have the same old problems.
+A: Well, he's made a few changes.
+B: Like what?
+A: I think he closed the bowling alley in the White House.
+B: Oh, yeah. He's changing it to a basketball court.
+A: Who's paying for that?
+B: I think we are!
+A: Well, that's okay, as long as it helps him relax and think more clearly.
+B: Yes, we need a relaxed president who thinks clearly.
+A: Do any other world leaders have a basketball court?
+B: They will. You know America always leads the way.
+A: People say that everybody loves Obama.
+B: Well, more than 50 million people voted for McCain.
+A: That's 50 million people who don't love Obama.
+B: Obama's got four years to make everyone happy.
+A: He's never going to make everyone happy.
+B: Can you imagine being President?
+A: Everyone wants you to solve their problems.
+B: I have enough stress from trying to solve my own problems.
+A: You and everybody else.
+B: I would never want to be President.
+A: But think about all the power you'd have.
+B: I prefer my quiet little life to all the power in the world.
+A: Did you read this article?
+B: What article?
+A: It says the mayor spends only 11 percent of his time on city duties.
+B: Only 11 percent?
+A: About 50 percent of the time he's traveling.
+B: Where does he travel to?
+A: Oh, all over the world.
+B: But he's supposed to be making our city a better place.
+A: He's visiting other cities to get ideas.
+B: Can't he just go online?
+A: The rest of the time he's raising money for his reelection.
+B: Well, he'll never get reelected once this news gets out.
+A: Who did you vote for for president?
+B: I voted for Ralph Nader.
+A: Who in the world is Ralph Nader?
+B: He's the best man for president.
+A: Why's that?
+B: He hates corporations.
+A: Well, most corporations do think only about money.
+B: He hates Democrats and Republicans.
+A: Well, they do put their party before their country.
+B: He's the only candidate that I trust.
+A: But he didn't have a chance. Nobody voted for him!
+B: Sooner or later, voters will wake up.
+A: I don't know why I bother to vote.
+B: Why's that?
+A: What good does it do?
+B: You get to put someone in power that you like.
+A: Only if my candidate wins.
+B: Well, he can't win unless you and others vote for him.
+A: But even if my candidate wins, he'll break his promises.
+B: That's true. They promise anything just so they get elected.
+A: And when elected, they go their own way.
+B: They forget who put them in power.
+A: They forget where they came from.
+B: Maybe you should run for office.
+A: That election for U.S. Senator stunk.
+B: What do you mean?
+A: There were more votes than voters!
+B: But that's impossible.
+A: Officials said that it's possible.
+B: Did they explain how it's possible?
+A: No. They said there are some things you can't explain.
+B: So are they going to hold another election?
+A: No. That will cost too much money.
+B: So it's better to save money than to have an honest election?
+A: Well, the Democratic Party says it was an honest election.
+B: Of course they say that—their man won!
+A: I see that former President Bush is at a conference.
+B: Yes. He's telling jokes about his eight years as president.
+A: Yes, those eight years were a lot of fun for everyone.
+B: Only 4,000 American soldiers were killed overseas.
+A: Not to mention 40,000 wounded soldiers.
+B: But Bush visited some of them in the hospital once.
+A: That's nice that he found the time to make a visit.
+B: He spoke to them and made them feel better.
+A: Did he speak to every family that lost a soldier?
+B: No, he didn't have time to do that.
+A: Well, he's got plenty of time now!
+B: No, he's too busy writing a book about how hard it was to be president.
+A: Did you get your Official Sample Ballot?
+B: Yes, with the Voter Instructions.
+A: How are you going to vote?
+B: Same as ever, by mail. All it costs me is a 42-cent stamp.
+A: I meant, are you going to vote for or against the new taxes?
+B: Against all of them, of course.
+A: But we need new taxes to pay for highways, schools, and prisons.
+B: We've already voted for new taxes to pay for all that stuff!
+A: That's true. Where did that money go?
+B: Our legislators spent it on first-class travel all over the world.
+A: They are having a good time with our money.
+B: So when are we going to stop giving them more?
+A: Have you decided how you are going to vote?
+B: Do you mean on Measures 1, 2, and 3?
+A: Yes. The ones that will improve our schools, roads, and hospitals.
+B: You mean the measures that will raise our taxes.
+A: But the TV ads say that our taxes will not increase.
+B: Do you believe the TV ads?
+A: I like the one where the fireman tells us why we should vote Yes.
+B: Don't believe him! Whatever the TV ads tell you, the opposite is true.
+A: But the title of Measure 1 is "Better Schools at No Cost."
+B: The title should be "Better Schools at Huge Cost."
+A: I can't believe that they would lie to us.
+B: Of course they lie—that's what politicians do!
+A: Did you see "Titanic"?
+B: Yes. It is a great movie.
+A: I saw it twelve times.
+B: I saw it eight times.
+A: I have the DVD.
+B: So do I.
+A: Let's go to your home.
+B: We can watch my DVD.
+A: And then we can go to my home.
+B: And watch your DVD.
+A: I always cry at the end.
+B: Me too. It's so sad.
+A: Let's play cards.
+B: I don't know any card games.
+A: I'll teach you one.
+B: Okay. What will you teach me?
+A: It's called poker.
+B: Is it easy to learn?
+A: Yes, it will only take about 30 minutes.
+B: Okay. Teach me how to play.
+A: We each get five cards.
+B: Oh, look. I have four tens.
+A: That's great, but you're not supposed to tell me.
+B: Oh. Sorry. Okay, I don't have four tens.
+A: I'm a good card player.
+B: Why is that?
+A: Because I watch the other players.
+B: What do you mean?
+A: People will tell you if they have a good hand.
+B: How do they do that?
+A: For example, a friend of mine licks his lips.
+B: When he licks his lips, you know he has a good hand?
+A: I know he has a good hand, so I don't bet.
+B: He never wins your money?
+A: Nope, and it drives him crazy.
+B: He knows you can't read his mind. Maybe he thinks you're cheating.
+A: Turn the radio down, please.
+B: But I'm listening to it.
+A: Well, listen to it more quietly.
+B: I can't wait till I grow up.
+A: What will you do?
+B: I will play the radio as loud as I want.
+A: That's okay with me.
+B: I will have a radio in every room of my house.
+A: Remind me to never visit you.
+B: All the radios will be on extra loud.
+A: Your neighbors will hate you.
+B: If they don't like it, they can move.
+A: I hope I win the lotto.
+B: Your chances are very small.
+A: But you can't win if you don't play.
+B: Ha! You can't win if you do play.
+A: Someone has to win.
+B: That's what everyone says.
+A: It might as well be me.
+B: That's what everyone says.
+A: You're trying to tell me something.
+B: That didn't take long.
+A: You think I should quit playing.
+B: Save your money for school.
+A: What's on TV?
+B: Nothing much.
+A: What about the baseball game?
+B: It got rained out.
+A: Rained out?
+B: Yes, rained out.
+A: How could that be?
+B: Well, you can't play baseball in a rainstorm.
+A: I thought they were playing under a dome.
+B: The dome doesn't close.
+A: Why doesn't it close?
+B: Who knows? They said they'll fix it before next season.
+A: Can I try your coffee?
+B: Sure. Here you go.
+A: Hmm, that's not bad.
+B: There's nothing in it.
+A: What do you mean?
+B: I mean, it's just coffee.
+A: I figured that.
+B: It's not too bitter for you?
+A: It's a little bitter, but it's okay.
+B: There's no sugar or cream in it.
+A: No, it's a taste you have to get used to.
+B: Sort of like beer.
+A: Let's take a walk.
+B: What's the weather like?
+A: Let me step outside and see.
+B: It's a little chilly, right?
+A: Yes, it is.
+B: I'll put on my cap.
+A: Wear a jacket, too.
+B: I wonder if I should bring my gloves.
+A: Maybe you should, just in case it gets colder.
+B: I'll put a glove in each pocket.
+A: We'll get warmer as we walk.
+B: Yes, but it gets colder as the sun goes down.
+A: Look at the car chase on TV!
+B: That driver is crazy.
+A: I can't believe he hasn't crashed.
+B: How fast is he going?
+A: They say he's going 80 miles per hour.
+B: He's going to kill someone.
+A: Look! He just hit that car.
+B: Oh, my goodness. No one is safe on the streets.
+A: Now he's slowing down.
+B: Maybe he ran out of gas.
+A: Look! He just got out of the car and started running.
+B: I hope the police catch him.
+A: TV news is so stupid.
+B: They shouldn't even call it news.
+A: Last night they told us about a cat in a sofa.
+B: Yesterday they told us about a dog in a pipe.
+A: Last week they told us about a bear in a back yard.
+B: Last month they told us about a mouse in a restaurant.
+A: The weatherman tells us the temperature in every town.
+B: The sports guy shows us players fighting.
+A: They always tell us "what's next."
+B: They always make "what's next" sound exciting, but it never is.
+A: It's more like news for kids.
+B: They should have kid reporters.
+A: I love my computer.
+B: Computers are so cool.
+A: I love to go online.
+B: The Internet is amazing.
+A: You can travel all over the world.
+B: I know. I went to China yesterday.
+A: What did you do?
+B: I stood on the Great Wall and looked all around.
+A: What was it like?
+B: It was like the real thing.
+A: It was like being there?
+B: Yes, I felt like I was actually there.
+A: The Beatles are the best.
+B: They are the best musical group ever.
+A: I love all their songs.
+B: I don't know which one I like the best.
+A: I like the ones I can sing along with.
+B: So do I, like "She Loves You."
+A: "She loves you, Yeah, yeah, yeah!..."
+B: "…And you know you should be glad!"
+A: What a great song.
+B: How about "Let It Be?"
+A: Oh, yes! "Let it be, let it be…"
+B: "…There will be an answer, let it be!"
+A: Let's go to a movie.
+B: I'd rather not.
+A: Why not?
+B: You know I don't like crowds.
+A: Let's go to an early movie.
+B: Okay, that won't be very crowded.
+A: What would you like to see?
+B: Oh, I don't care. You're the one who wants to go out.
+A: Well, I want to see "The Pursuit of Happyness."
+B: What have you heard about it?
+A: It's based on a true story about a divorced man and his young son.
+B: Well, I hope it has a happy ending.
+A: What's your favorite thing to do?
+B: I like to watch people.
+A: That's your favorite thing to do?
+B: Well, it's one of them.
+A: Where do you go to watch people?
+B: My girlfriend and I sit outside Starbucks.
+A: That sounds like a good spot.
+B: We watch people walk by with their dogs.
+A: I guess you see lots of different dogs.
+B: We don't even know what kind most of them are.
+A: There are lots of different kinds, but they all have one thing in common.
+B: Yes, they love to sniff each other when they meet.
+A: They call him Father Dollar Bill.
+B: Yes, he was on the TV news today.
+A: Every Easter Sunday he gives away money.
+B: Is it his money?
+A: No. Movie stars give him money to give to homeless people.
+B: How much money does he give away?
+A: This year he gave away $15,000.
+B: That's a lot of money.
+A: He gave $100 to people in wheelchairs.
+B: What about the other homeless people?
+A: They got $1 each.
+B: People stood in line just to get one dollar?!
+A: Old movies are the best.
+B: Even though they're in black and white.
+A: A good story is more important than color.
+B: Actors didn't curse back then.
+A: And there was no violence.
+B: People today don't like that.
+A: No, today people like lots of action.
+B: I like a good story.
+A: I like to see actors who are like real people.
+B: Like real people with real problems.
+A: They still make movies like that.
+B: Yes, but they never make much money.
+A: Do you get PBS on TV?
+B: Yes, everybody gets the Public Broadcasting System.
+A: It puts me to sleep.
+B: Tell me about it.
+A: A gardening show follows a knitting show.
+B: A cooking show follows a sewing show.
+A: A travel show follows another travel show.
+B: I'll say! I've gone around the world a dozen times already!
+A: Now they're adding old TV shows to the old movies.
+B: I sure would like to see something interesting for a change.
+A: If more people donate money, PBS could offer new shows.
+B: Who wants to donate? Public TV should be free.
+A: I love to watch "Judge Judy."
+B: Is that a TV show?
+A: Yes. It's on every afternoon.
+B: What's so good about it?
+A: They have interesting lawsuits.
+B: Such as?
+A: Yesterday, a woman complained about a cell phone she bought on eBay.
+B: Was something wrong with the phone?
+A: It works only in Canada.
+B: Did the seller know that?
+A: Yes, and he didn't tell the buyer.
+B: I hope Judge Judy made the seller take the phone back.
+A: That woman is a very good singer.
+B: Yes, but she looks like a man.
+A: What difference does it make?
+B: Female singers are supposed to be pretty.
+A: Singers are supposed to sound good.
+B: They should look good, too.
+A: There are lots of ugly men singers.
+B: Men singers don't have to look good.
+A: Then neither do women singers.
+B: Well, I would never buy her CD.
+A: But you would buy her CD if she was pretty?
+B: Yes. I would buy all of her CDs.
+A: All the TV stations are going to go digital.
+B: Yes, that will occur next month.
+A: Most of them are already broadcasting in digital.
+B: The digital signal is very clear.
+A: Oh, no, it isn't!
+B: What do you mean?
+A: I can't get a single channel.
+B: Do you have a digital TV?
+A: Of course. But I don't have cable.
+B: You don't need to have cable, but you do need a good antenna.
+A: But I have rabbit ears.
+B: Rabbit ears aren't strong enough. Buy a digital antenna.
+A: I've got a date for you.
+B: Oh, really?
+A: Are you interested?
+B: Maybe. What is she like?
+A: She's got a great personality.
+B: Uh-oh. That means that she's fat and ugly.
+A: She's cute.
+B: Okay, so she's not ugly; she's just fat.
+A: She weighs 98 pounds.
+B: Okay, she's not fat. So what's the problem with her?
+A: Who said there is a problem with her?
+B: The problem is she has no problems—she's too good for me!
+A: I think you're very pretty.
+B: Thank you.
+A: Would you have dinner with me?
+B: I would like to.
+A: Can I pick you up Friday night?
+B: What time?
+A: Eight o'clock.
+B: That sounds great.
+A: We'll go to a French restaurant.
+B: I've never been to a French restaurant.
+A: I think you'll love the food.
+B: I'm not going to eat any snails!
+A: You have pretty eyes.
+B: Thank you. So do you.
+A: I wish my eyes were blue.
+B: What's the matter with green eyes?
+A: Nothing, except my favorite color is blue.
+B: Maybe in your next life you'll have blue eyes.
+A: But what if I'm a fish in my next life?
+B: I think some fish have blue eyes.
+A: I hope I don't come back as a fish.
+B: I hope I come back as a cat.
+A: Cats have beautiful eyes.
+B: I would love to have blue cat-eyes.
+A: I love you.
+B: I love you, too.
+A: I loved you the first day I saw you.
+B: It was love at first sight?
+A: Yes, it was love at first sight.
+B: I didn't love you at first.
+A: I know. I had to chase you for a while.
+B: Yes, you chased me and then you caught me.
+A: Now you're mine forever.
+B: And you're mine forever.
+A: We'll grow old together.
+B: And be happy together.
+A: I'm in love with that girl.
+B: Have you told her?
+A: Of course not.
+B: Why not?
+A: She would laugh at me.
+B: How do you know?
+A: Because they always do.
+B: Maybe she's different.
+A: They're all the same.
+B: Just ask her out to dinner.
+A: And then what?
+B: And then she'll know that you like her.
+A: Give me a hug.
+B: I'm not in the mood.
+A: What's the matter?
+B: I saw you looking at that woman.
+A: What woman?
+B: You know, that woman with the big boobs.
+A: I was not looking at her.
+B: You were, too.
+A: I'm not interested in her.
+B: Then why were you looking at her?
+A: I was looking at something else.
+B: Oh, really? Then spend tonight looking at the sofa.
+A: Would you like to go on a blind date?
+B: You must be joking.
+A: No, I'm serious.
+B: I don't want to date a blind woman.
+A: A blind date doesn't mean that she is blind!
+B: What does it mean?
+A: A blind date is a date with someone you don't know.
+B: Why would I date someone I don't even know?
+A: To try something new and exciting.
+B: What if I don't like her?
+A: Then you don't date her again.
+A: I have a date tomorrow night.
+B: Really? Who with?
+A: A girl I met at the market.
+B: You met a girl at the supermarket?
+A: She was standing behind me in a really slow line at the checkout counter.
+B: What did you say to her?
+A: I had two pineapples in my cart, and she asked where I had found them.
+B: She asked you about your pineapples?
+A: I told her I had gotten the last two on the shelf, but I offered her one of mine.
+B: That was nice of you.
+A: She asked me how she could return the favor, so I asked her out.
+B: Sometimes a slow line can be a good thing.
+A: Did you have a date Friday night?
+B: Yes, in fact, I did.
+A: Who did you go out with?
+B: A man I met in a coffee shop.
+A: Where did you go?
+B: We went to a nice restaurant.
+A: Anywhere else?
+B: Then we went to a jazz club.
+A: That sounds like a nice date.
+B: Yes, it was pleasant.
+A: But you won't date him again?
+B: No. He was nice, but there was no chemistry.
+A: I had the worst date the other night.
+B: What happened?
+A: First of all, he was half an hour late.
+B: That's not a good start.
+A: Then he didn't bother to apologize.
+B: That's rude.
+A: Then he drove too fast to the restaurant.
+B: That's dangerous.
+A: I thought about getting out and taking a taxi home.
+B: What happened at the restaurant?
+A: We had a $40 meal, and he left a $1 tip!
+B: I guess you can't go back to that restaurant.
+A: I don't like that man.
+B: Why not?
+A: He's a dirty old man.
+B: What do you mean?
+A: He's old enough to be my father, yet he asked me out.
+B: Well, you can't blame a man for asking.
+A: He should act his age.
+B: But a lot of old people are still interested in dating.
+A: They should find a nice hobby.
+B: Just wait until you're 50 years old.
+A: Dating will be the furthest thing from my mind.
+B: That's what you say now. Wait till you're 50.
+A: Does your girlfriend ever make you angry?
+B: Sometimes.
+A: What does she do?
+B: Just yesterday, I told her I wouldn't trade her for all the money in the world.
+A: That was a nice thing to say.
+B: That's what I thought.
+A: What did she say?
+B: She laughed! She didn't believe me.
+A: That wasn't very nice of her.
+B: She said that nothing is more important to me than money.
+A: What did you say?
+B: I told her I wouldn't trade her for any other woman in the world.
+A: Some people have good noses.
+B: I wish I had a good nose. Mine is way too big.
+A: I don't mean good-looking. I mean good-smelling.
+B: Oh. But that can be a curse.
+A: Yes, because you can be too sensitive to odors.
+B: I'll say. My girlfriend has a nose like a drug dog.
+A: Did she catch you using drugs?
+B: Sort of. She knows whenever I sneak a cigarette.
+A: You don't need a good nose for that—cigarettes stink.
+B: But when I sneak just one cigarette in the morning, she can smell it that evening!
+A: Boy, that is a good nose.
+B: I told her she should apply for a job at customs.
+A: Where do you live?
+B: I live in Pasadena.
+A: Where is Pasadena?
+B: It's in California.
+A: Is it in northern California?
+B: No. It's in southern California.
+A: Is Pasadena a big city?
+B: It's pretty big.
+A: How big is "pretty big"?
+B: It has about 140,000 people.
+A: How big is Los Angeles?
+B: It has about 3 million people.
+A: Do you have a car?
+B: Yes, I do.
+A: What kind of car do you have?
+B: I have a Honda.
+A: Is it new?
+B: It was new in 2003.
+A: So, it's pretty old now.
+B: Yes, it is. But it still looks good.
+A: Do you take good care of it?
+B: Oh, yes. I wash it once a week.
+A: Do you change the oil?
+B: My mechanic changes the oil twice a year.
+A: Do you have a girlfriend?
+B: No, I don't. Do you?
+A: I don't have a girlfriend, either.
+B: Why not?
+A: I don't know. Maybe I'm not rich enough.
+B: Girls like guys with money.
+A: They sure do.
+B: They like guys with new cars.
+A: I don't have money or a new car.
+B: Me, neither.
+A: But girls like guys who are funny.
+B: Maybe we should learn some good jokes.
+A: Where are you going?
+B: I have to walk the dog.
+A: What kind of dog do you have?
+B: I have a little poodle.
+A: Poodles bark a lot.
+B: They sure do.
+A: They bark at everything.
+B: They never shut up.
+A: Why did you get a poodle?
+B: It's my mom's dog.
+A: So she likes poodles.
+B: She says they're good watchdogs.
+A: Can I borrow $5?
+B: Sure. Why do you need it?
+A: I want to buy lunch.
+B: Where's your money?
+A: It's not in my wallet.
+B: Your wallet is empty?
+A: I don't have even one dollar in it.
+B: Being broke is no fun.
+A: Even if it's only for a short while.
+B: It's always good to have friends.
+A: Friends will lend you money when you're broke.
+B: As long as you pay them back.
+A: Let's go to the beach.
+B: That's a great idea.
+A: We haven't been in a while.
+B: We haven't been in a month.
+A: The last time we went, you almost drowned.
+B: No, I didn't.
+A: Then why did the lifeguard dive into the water?
+B: I think he wanted to cool off.
+A: He swam right up to you.
+B: And then he turned right around.
+A: Maybe you're right.
+B: Maybe we should get going.
+A: Are you married?
+B: No. I'm divorced.
+A: When did you get divorced?
+B: I got divorced two years ago.
+A: Why did you get divorced?
+B: My wife left me.
+A: Why did she leave you?
+B: She said she didn't love me anymore.
+A: Wow! That's terrible.
+B: Yes, it was.
+A: Why didn't she love you anymore?
+B: She fell in love with my best friend.
+A: I'm bored.
+B: What's on TV?
+A: Nothing.
+B: There must be something on TV!
+A: Nothing that's interesting.
+B: What about that new game show?
+A: Which one?
+B: "Deal or No Deal"
+A: Tell me you're joking.
+B: I love that show.
+A: I watched it once. That was enough.
+B: It's on right now. Let's watch it together.
+A: I like living here.
+B: I agree. Pasadena is a nice city.
+A: It's not too big.
+B: And it's not too small.
+A: It has great weather all year long.
+B: It has the Rose Parade.
+A: It has beautiful houses.
+B: It has wonderful restaurants.
+A: It has great schools.
+B: It's close to the mountains.
+A: The people are friendly.
+B: I'm not ever going to leave.
+A: We need a new mattress.
+B: What's the matter with this one?
+A: It's not comfortable.
+B: It seems fine to me.
+A: I toss and turn all night.
+B: You should stop drinking coffee.
+A: Look at these marks on my arms.
+B: What are they?
+A: They are bites.
+B: Did the cat bite you?
+A: No. The bedbugs in that mattress bit me.
+B: Okay. Let's get a new mattress.
+A: My laptop is so slow.
+B: Buy a new one.
+A: I would if I had the money.
+B: Why is it so slow?
+A: That's a good question.
+B: Did you take it to a computer shop?
+A: I would if I had the money.
+B: Well, I guess you have to live with it.
+A: Sometimes I want to throw it out the window.
+B: You don't want to do that.
+A: Why not?
+B: You might hit someone in the head.
+A: What's for dinner?
+B: I'm not sure.
+A: How about a pizza?
+B: You had pizza for lunch.
+A: But I love pizza.
+B: Everybody loves pizza.
+A: So why can't I have pizza for dinner?
+B: Because you need variety.
+A: What's "variety?
+B: Different things—not the same thing all the time.
+A: You mean, like a pepperoni pizza instead of a cheese pizza?
+B: No, I mean a salad instead of a pizza.
+A: We need to save money.
+B: Why do we need to save money?
+A: Because we need to buy a house.
+B: But a house is so expensive.
+A: That's why we need to save money.
+B: How much do we need to save?
+A: We need to save enough for a down payment.
+B: How much is that?
+A: That's about $30,000.
+B: Thirty thousand dollars! That will take forever.
+A: Not if we save every penny.
+B: Okay. Here's seven pennies.
+A: The ocean is so big.
+B: You can't see the end of it.
+A: It goes on and on forever.
+B: And it's deep, too.
+A: I think it's five miles deep.
+B: Are there fish at the bottom?
+A: There are fish at the top and the bottom.
+B: Are there more fish or more people?
+A: I think there are more fish.
+B: I hope so. I love to eat fish.
+A: I'm upset with my mom.
+B: Why is that?
+A: I warned her about her new boyfriend. She didn't listen to me.
+B: What happened?
+A: I gave her $1,000 for her birthday. I told her to spend it on herself.
+B: That was very nice of you.
+A: I found out that she gave it to her new boyfriend.
+B: Why did she do that?
+A: He said he would buy her a nice ring.
+B: What's wrong with that?
+A: He went to Las Vegas. He lost it all gambling.
+B: I hope your mom broke up with him.
+A: Do animals talk to each other?
+B: Of course they talk to each other.
+A: What do they talk about?
+B: They talk about other animals.
+A: What else do they talk about?
+B: They talk about food and the weather.
+A: Do they talk about us?
+B: Of course they talk about us.
+A: What do they say about us?
+B: They say that we are funny-looking.
+A: Ha! We're not funny-looking; animals are funny-looking.
+B: We're funny-looking because we wear clothes.
+A: I have to clean the house.
+B: Yes, it's very dirty.
+A: You can help me.
+B: Why me?
+A: Because you helped make it dirty.
+B: What do you want me to do?
+A: I want you to clean the bathroom.
+B: Oh, that's easy.
+A: Clean the sink, the tub, the counter, and the toilet.
+B: That's a lot of work.
+A: Tell me when you finish.
+B: I don't think so. You'll just give me more work.
+A: You're watching too much TV.
+B: What do you mean?
+A: I mean you're wasting your life.
+B: I'm having fun.
+A: You're sitting there with your mouth open.
+B: Who cares?
+A: I care. Do something.
+B: Okay. I did something.
+A: What did you do?
+B: I turned up the volume.
+A: That's not what I meant by "do something."
+B: Will you do something? Leave me alone.
+A: Did you write a letter to grandma?
+B: Yes, I did.
+A: Did you tell her about school?
+B: I told her that school is fun.
+A: Did you put the letter in an envelope?
+B: Yes, and I sealed the envelope.
+A: Did you put a stamp on the envelope?
+B: I couldn't find any stamps.
+A: They're in the kitchen drawer.
+B: Okay. I just put a stamp on the envelope.
+A: Give me the envelope, and I'll mail it for you.
+B: When is grandma going to learn about e-mail?
+A: Why are you yawning?
+B: I'm sleepy.
+A: Why don't you go to bed?
+B: I want to watch this TV show.
+A: Maybe you should record it.
+B: The tape recorder is broken.
+A: Then you should watch the rerun.
+B: Why? I'm watching the original.
+A: But you'll be asleep in about one minute.
+B: I'm just yawning because the commercials are on.
+A: Okay. I'll tell you how the show ends.
+B: Zzz.
+A: It's Sunday.
+B: So?
+A: You know what that means.
+B: I forgot.
+A: Sunday means we go to church.
+B: Oh, yeah.
+A: Put on a coat and tie.
+B: Why?
+A: To show respect to God and others.
+B: I'm glad Sunday is only once a week.
+A: I hope God didn't hear that.
+B: He'll forgive me.
+A: Did you feed the cat?
+B: I'll do that in a minute.
+A: The cat is meowing. He's hungry.
+B: Okay. I'll feed him right now.
+A: You shouldn't make him wait.
+B: I was doing my homework.
+A: The cat doesn't care about your homework.
+B: The cat doesn't care about anything.
+A: That's the way cats are.
+B: All they think about is themselves.
+A: Maybe we should get rid of him.
+B: Of course not! He's family.
+A: I hate shaving.
+B: Me too.
+A: I just cut myself again.
+B: Did you use a new blade?
+A: It doesn't matter. Old blades cut, new blades cut.
+B: Maybe you should use an electric shaver.
+A: They make a lot of noise, but they don't give a close shave.
+B: Maybe you should stop shaving.
+A: And grow a beard?
+B: Sure. Why not?
+A: Because food and other stuff sticks in my beard.
+B: Hmm. Here's an idea. Put cream on your face and have the cat lick it off.
+A: Excuse me.
+B: Yes?
+A: Are you reading this paper?
+B: Oh, no. Help yourself.
+A: I asked because the paper is sitting next to you.
+B: Thank you. That's polite of you to ask.
+A: Some people would just pick it up.
+B: Yes, I know. Some people are rude.
+A: I always try to be polite.
+B: So do I.
+A: The world needs more polite people like us.
+B: I agree 100 percent.
+A: Mom, I want a puppy.
+B: Let me think about it.
+A: Why do you have to think about it?
+B: Because a puppy costs money.
+A: No, it doesn't. Puppies are free.
+B: Yes, but a puppy needs shots.
+A: Shots for what?
+B: So it won't get sick. Just like you get shots.
+A: I hate shots.
+B: And a puppy eats food. Food costs money.
+A: No problem. I'll give him food off my plate.
+B: Oh, no you don't. Puppies don't eat vegetables.
+A: Look at all these kittens!
+B: How many are there?
+A: Eight.
+B: They're all so cute.
+A: Yes, but I can't keep them.
+B: What are you going to do with them?
+A: I'm going to give them away. Do you want one?
+B: Yes, I would love one.
+A: Which one do you want?
+B: That one. The one that's all black.
+A: Yes, I like that one, too.
+B: I'll call him Blacky.
+A: My parents go to church every Sunday.
+B: They trust in God.
+A: They hope they will go to heaven.
+B: They probably will.
+A: But no one knows for sure.
+B: That's for sure.
+A: No one knows what happens after we die.
+B: If we are good, we will be happy in heaven with God.
+A: That's what many people believe.
+B: If we are bad, we will be unhappy forever in hell.
+A: I don't want to go to hell.
+B: Let's go to church with your parents on Sunday.
+A: My husband died.
+B: I'm sorry for you.
+A: Thank you.
+B: When did he die?
+A: A couple of months ago.
+B: You still miss him.
+A: Yes, but I talk to him almost every day.
+B: When you go to church?
+A: No, when I call him on his cell phone.
+B: What do you mean?
+A: I buried him with his cell phone.
+B: What will you do when the battery dies?
+A: Today is Friday the thirteenth.
+B: That's a bad day.
+A: It's supposed to be unlucky.
+B: You're supposed to stay home all day.
+A: That's what I do.
+B: My friend stayed in a hotel on Friday the thirteenth.
+A: That was a mistake.
+B: He stayed on the thirteenth floor.
+A: What happened?
+B: Someone stole his laptop.
+A: He was asking for it.
+B: He learned his lesson. He's home today.
+A: Do you really love me?
+B: Of course.
+A: Prove it.
+B: How can I prove it?
+A: Take me to dinner.
+B: That's it? That's all I have to do?
+A: Take me to a nice restaurant, not to McDonald's.
+B: But a nice restaurant costs money.
+A: Yes, and you have to make a reservation.
+B: That's such a hassle.
+A: I knew you didn't love me.
+B: Okay, okay! I'll make a reservation right now.
+A: My parents are divorced.
+B: So are mine.
+A: Why did your parents get divorced?
+B: My father found a new girlfriend.
+A: That's too bad.
+B: My mother was hurt and angry.
+A: She had good reason. What did she do?
+B: She told him to drop his girlfriend.
+A: What did your father do?
+B: He moved out of our house.
+A: I guess he really liked his new girlfriend.
+B: Yes, but she left him a year later.
+A: My grandma's apartment smells funny.
+B: So does mine.
+A: I think it's an old people's smell.
+B: Really?
+A: Yes. I think when you get old, you begin to smell.
+B: Like fruit that is too ripe?
+A: Yes, just like fruit that is too ripe.
+B: But the smell is different.
+A: Yes, old people don't smell like fruit.
+B: No, they smell like a thrift shop.
+A: Yes, a thrift shop has that same smell.
+B: Yes, an old smell.
+A: The price of stamps goes up and up.
+B: I think stamps used to cost a penny.
+A: That was a long time ago.
+B: It was before I was born.
+A: Now a stamp is 42 cents.
+B: But in May it will be 44 cents.
+A: Have you ever lost a letter in the mail?
+B: No, I haven't.
+A: Neither have I.
+B: So, they do a good job for the money.
+A: Yes, they do.
+B: Maybe we shouldn't complain.
+A: A button came off my shirt.
+B: What are you going to do?
+A: First, I have to find the button.
+B: Where did you lose it?
+A: I have no idea.
+B: A button is hard to find. Did you look in your pant cuffs?
+A: That's a good idea.
+B: I found a button in my pant cuffs one time.
+A: Let me look. No, it's not there.
+B: Many shirts come with an extra button.
+A: You're right. This one does have an extra button.
+B: Now all you have to do is sew it on.
+A: I have to go to the bathroom.
+B: You drink too much coffee.
+A: But I love coffee.
+B: Well, it's your life.
+A: You eat too much chocolate.
+B: I don't think so.
+A: Have you looked in the mirror?
+B: Do you think I'm getting fat?
+A: I didn't say that.
+B: What did you say?
+A: I said I have to go to the bathroom.
+B: That's what I thought you said.
+A: Did you do the laundry?
+B: Yes, I did.
+A: What did you wash?
+B: I washed the sheets and towels.
+A: What about the pillowcases?
+B: Yes, I took them off the pillows and washed them.
+A: Did you dry everything in the dryer?
+B: Yes, I dried everything in the dryer.
+A: Then what did you do?
+B: I folded all the towels.
+A: Did you put the sheets on the beds?
+B: Yes, and I put the pillowcases on the pillows.
+A: Do you listen to the radio?
+B: I listen day and night.
+A: What do you listen to?
+B: Mostly talk radio.
+A: What's that?
+B: People talk about current events.
+A: What do they say?
+B: They say they want change.
+A: What kind of change?
+B: They want tax cuts.
+A: Why do they want tax cuts?
+B: Because tax cuts will save them money.
+A: Mom, I'm hungry.
+B: Look in the fridge.
+A: I'm looking. There's nothing to eat.
+B: Are you sure?
+A: It's almost empty.
+B: I went to the market yesterday.
+A: I don't see anything.
+B: I bought lots of oranges and apples.
+A: I don't want fruit. I want something tasty.
+B: Eat the fruit. It's good for you.
+A: Next time you go to the market, let me go with you.
+B: No, thank you. All you want to eat are hot dogs and candy bars.
+A: What is there to eat?
+B: I don't know. Look in the fridge.
+A: I think I'll make a sandwich.
+B: What kind?
+A: A ham sandwich.
+B: The bread is in the cabinet.
+A: Where's the mustard?
+B: It's in the fridge, I think.
+A: Oh, yes, here it is. Do you want a sandwich?
+B: Yes, that sounds nice.
+A: How about some potato chips?
+B: Yes. And a pickle, if we have any.
+A: It's time for your bath, young lady.
+B: But, Mom, I'm not dirty.
+A: You need a bath every day.
+B: Why?
+A: Because you don't want to smell bad.
+B: I don't smell bad.
+A: That's what you think.
+B: If I smelled bad, I could smell me.
+A: I can smell you.
+B: I can smell you, too.
+A: That's my perfume.
+B: When can I wear perfume?
+A: Something's wrong with my computer.
+B: Exactly what?
+A: All I get is a black screen.
+B: What's the matter?
+A: I think I know, because this happened before.
+B: What happened before?
+A: My hard drive crashed.
+B: Oh, no. That's bad news.
+A: It sure is, but I'm going to call HP first, just to make sure.
+B: Will you lose all your files?
+A: No, I always back up my files.
+B: You're smart.
+A: I called HP about my computer.
+B: What did they say?
+A: They said I need a new hard drive.
+B: That's too bad. How much is a new one?
+A: It's not too much, only about $85.
+B: Plus installation?
+A: No, my hard drive is easy to remove and replace.
+B: Really?
+A: Yes, it's just a couple of screws.
+B: That's nice.
+A: It's a lot better than paying someone $60.
+B: If my hard drive crashes, I'll just call you.
+A: What's your email address?
+B: It's bluedog123.
+A: Bluedog123. Are you sure that's all?
+B: Yes.
+A: No. That's incomplete.
+B: What do you mean?
+A: What's your mailing address?
+B: 456 Cherry Drive, Pasadena, CA 91170.
+A: That's correct.
+B: So what's the problem?
+A: Bluedog123 is just the street. You have to give me the city, state, and ZIP code.
+B: Oh, I get it. My email address is bluedog123@yahoo.com.
+A: I'm going to take a nap.
+B: You should unplug the phone.
+A: That's a good idea.
+B: Do you want me to wake you in an hour?
+A: No, thanks. Just let me sleep until I wake up.
+B: I'll start dinner at 6:00.
+A: Okay. I think I'll be awake by then.
+B: If not, your nose will wake you up.
+A: You mean I will smell the food cooking?
+B: You might even dream about dinner.
+A: I don't think I'm going to dream about anything. I'm really tired.
+B: Have a nice nap.
+A: That was a nice funeral.
+B: Yes, dad, it was.
+A: The son gave a nice speech about his father.
+B: It was long, too.
+A: I think it was about 45 minutes long.
+B: But it went by fast. It was interesting.
+A: I liked it.
+B: I'll give you a speech like that, too.
+A: Do you think anyone will come to my funeral?
+B: Of course.
+A: I think only the family will be there.
+B: You have lots of friends. They will be there, too!
+A: Yikes! What was that noise?
+B: I had to blow my nose.
+A: Did you have to blow right next to the phone?
+B: Did you hear that?
+A: Of course I heard that. I thought a plane had crashed into your house.
+B: It wasn't that loud.
+A: I will blow my nose sometime for you, and you'll see.
+B: Okay. I'll take your word for it.
+A: I thought you had an elephant in your house.
+B: You're funny.
+A: What did you say? I think I've gone deaf.
+B: I'm going into the bathroom to blow my nose. I'll be right back.
+A: I have lots of friends.
+B: Really? How many do you have?
+A: I don't know, maybe one hundred.
+B: That is a lot of friends. Do you have a best friend?
+A: Of course. I have lots of best friends.
+B: How many best friends do you have?
+A: I think about twenty-five.
+B: Hmm. I have only one best friend.
+A: I feel sorry for you.
+B: I have only a few friends.
+A: You must be lonely. I will share my friends with you.
+B: That's very nice of you.
+A: Don't you ever cheat on me.
+B: Why would I do that?
+A: Because men like to cheat.
+B: Some men do, but not me.
+A: I'm watching you.
+B: I'm an open book. Watch me all you want.
+A: If I catch you, you'll be sorry.
+B: You won't catch me, because I love you. I'm not a cheater.
+A: I will poke your eyes out. 
+B: I don't want any other woman.
+A: I will chop your toes off, one by one.
+B: Honey, please. You're the only woman for me, forever. I swear it.
+A: I hate to go outside.
+B: Me too.
+A: Why do you hate to go outside?
+B: I meet too many jerks.
+A: I agree.
+B: This city is full of jerks.
+A: Rude people are everywhere.
+B: But what can you do?
+A: You can yell at them.
+B: And they will yell back at you.
+A: Yelling doesn't do any good.
+B: No. The best thing to do is just stay home.
+A: Will you look at this form?
+B: Are you having problems with it?
+A: I don't understand some things.
+B: Let me help you.
+A: What does "MI" mean?
+B: "MI" stands for Middle Initial.
+A: What does "MM/DD/YY" mean?
+B: That means Month/Day/Year. Use numbers.
+A: I don't understand.
+B: For example, if your birth date is January 12, 1987, write 01/12/87.
+A: Oh. That's simple enough.
+B: Always print clearly, and fill in the bubbles completely.
+
+A: I'd like to reserve a hotel room.
+B: That should be no problem. May I have your full name, please?
+A: My name is John Sandals.
+B: Hello, Mr. Sandals. My name is Michelle. What days do you need that reservation, sir?
+A: I'm planning to visit New York from Friday, April 14 until Monday, April 17. 
+B: Our room rates recently went up. Is that okay with you, Mr. Sandals?
+A: How much per night are we talking about?
+B: Each night will be $308.
+A: That price is perfectly acceptable.
+B: Wonderful! Do you prefer a smoking or nonsmoking room?
+A: Nonsmoking, please.
+B: Next question: Is a queen-size bed okay?
+A: That sounds fine.
+B: Okay, Mr. Sandals. Your reservation is in our computer. All we need now is a phone number.
+A: Certainly. My phone number is 626-555-1739.
+B: Thank you, Mr. Sandals. We look forward to seeing you in New York!
+
+A: Hi there, I want to reserve a hotel room.
+B: No problem at all. Could I have your full name, please?
+A: Sure, John Sandals.
+B: Hi, Mr. Sandals. I'm Michelle, at your service. When do you need the room? 
+A: My plans are to be there April 14th to the 17th. 
+B: We have new room rates, sir. Will that be acceptable to you?
+A: It depends on the price, of course. What is it?
+B: It's $308 a night.
+A: I have no problem with that.
+B: Great! Would you prefer smoking or nonsmoking?
+A: Definitely nonsmoking. I can't handle that smell.
+B: Nonsmoking. Now, is a queen-size bed okay?
+A: No problem.
+B: Great, Mr. Sandals. Your reservation is confirmed. Now all I need is your phone number.
+A: Of course! It's area code 626-555-1739.
+B: Thank you so much, Mr. Sandals. We look forward to seeing you!
+
+A: I need to reserve a room.
+B: Not a problem. May I have your name, please?
+A: Of course. I'm John Sandals.
+B: Hi, sir. My name is Michelle. Could you tell me when you need the room?
+A: Right now. I plan to be there in April from the 14th to the 17th. 
+B: Perhaps you didn't know that we have new room rates. Do you find that acceptable, sir?
+A: Maybe. How much is a room?
+B: The price per night is $308.
+A: That sounds fine to me.
+B: Fantastic! Would you like a smoking or nonsmoking room?
+A: I hate cigarettes! Nonsmoking.
+B: That'll be nonsmoking. Now, do you approve of a single queen-size bed?
+A: That'll be no problem.
+B: I'm happy to hear that, sir. Your reservation is all set except for your phone number.
+A: Sure! My number is 626-555-1739.
+B: 626-555-1739. Thank you for doing business with us, Mr. Sandals.
+
+A: I need a hotel room.
+B: That's no problem at all. May I have your name, please?
+A: Certainly. My name is John Sandals.
+B: It's a pleasure, Mr. Sandals. My name is Michelle. What days will you need a room?
+A: Friday afternoon, April 14 through Monday morning, April 17.
+B: One minor problem, sir. Our prices are now slightly higher. Is that acceptable, sir?
+A: Please tell me the price, so I can make a decision.
+B: It'll be $308 nightly.
+A: That's a reasonable price.
+B: Good! Now, sir, do you have a preference for smoking or nonsmoking?
+A: I quit smoking, so nonsmoking.
+B: I hear you, sir. Nonsmoking. Now, about the bed, is a queen-size okay?
+A: A queen sounds great.
+B: Okay, sir, let me reserve those dates, there. Now, if you'll just tell me your phone number.
+A: That would be 626-555-1739.
+B: That's 626-555-1739. Thank you so much for choosing our hotel, sir!
+
+A: I need a room for a few days.
+B: That won't be a problem. Could you please tell me your name?
+A: John Sandals. That's S A N D A L S.
+B: Sir, I'm Michelle, and I run the front desk. Please tell me the days you'll be here.
+A: I'll be there in April: Friday through Monday, the 14th through the 17th.
+B: We recently changed many things here, sir, including our prices. Do you mind, sir?
+A: Possibly. What's the actual price?
+B: The price will be $308 a night.
+A: $308! That's not bad.
+B: Very good. Now, Mr. Sandals, about the room, smoking or nonsmoking?
+A: Nonsmoking, definitely! 
+B: Most of our clients prefer nonsmoking. Now, does a queen sound okay?
+A: Yes, that'll be just fine.
+B: One more second, sir. Your reservation is now verified, so all I need is your phone number.
+A: It's 626-555-1739.
+B: Let me repeat that: 626-555-1739. Okay, sir, we look forward to seeing you in April!
+
+A: Can I reserve a hotel room? 
+B: I assure you, that's not a problem. What is your full name, please? 
+A: My name's John Sandals.
+B: It's a pleasure to assist you. Please tell me when you'll be needing the room, sir.
+A: If my plans don't change, I'll need a room April 14 till April 17.
+B: Sir, our room prices are slightly higher than you may have thought. Will that be okay?
+A: Tell me how much it will be, and I can tell you if it's okay.
+B: Only $308 per night, before taxes, of course.
+A: $308 a night? That's a fair price.
+B: Now, as for the room, sir, do you prefer smoking or nonsmoking?
+A: Nonsmoking, please.
+B: Nonsmoking. Now, sir, does a single queen-size bed meet your approval?
+A: I have absolutely no problem with that.
+B: Queen, nonsmoking. Okay, sir, your room is reserved. Now if you'll just give me your phone number. 
+A: Not a problem. The number is 626-555-1739. 
+B: Thank you for making a reservation with us. We look forward to seeing you in April!
+
+A: I'd like to order dinner.
+B: What would you like?
+A: I'd like to order a bottle of champagne, lobster tail, and filet mignon, medium rare.
+B: I'm sorry. We're currently out of filet mignon. May I suggest the porterhouse instead?
+A: I'd prefer the filet, but the porterhouse will do.
+B: And may I suggest chocolate-covered strawberries with the champagne?
+A: Normally, I would take you up on that suggestion, but just the champagne will do for tonight.
+B: Okay, no strawberries. Room service will be charged to your amenities account. Is that all right?
+A: That's fine.
+B: It will be up shortly. Enjoy your food, sir.
+
+A: Could I order dinner?
+B: Of course. What would you like?
+A: I want a bottle of champagne, lobster tail, and filet mignon, medium rare.
+B: I'm so sorry. We ran out of filet mignon. May I suggest the porterhouse instead?
+A: That's too bad, but the porterhouse will be okay.
+B: May I be so bold as to suggest chocolate-covered strawberries with the champagne?
+A: Not tonight, thank you.
+B: No strawberries. We'll charge your amenities account, if that's okay.
+A: Charge it to whatever account you like.
+B: Your meal will be delivered as soon as it's all ready. Enjoy!
+
+A: Could you bring me some food, please?
+B: Sure. What do you fancy?
+A: Can I have a bottle of champagne, lobster tail, and filet mignon, medium rare?
+B: Sir, the filet mignon was so popular tonight that we ran out. May I suggest the porterhouse?
+A: No filet? Okay, porterhouse will be fine then.
+B: Perhaps you would like chocolate-covered strawberries with the champagne?
+A: Not tonight, but thank you for the suggestion.
+B: Okay. This will be charged to your amenities account, okay?
+A: No problem.
+B: Your food will be brought to you momentarily. I hope you enjoy it.
+
+A: I'd like you to bring me some food.
+B: Just name it, sir.
+A: Please send up a bottle of champagne, lobster tail, and filet mignon, medium rare.
+B: Regrettably, we're currently out of filet mignon. May I suggest the porterhouse instead?
+A: Sure, I love porterhouse, too.
+B: Would you be interested in chocolate-covered strawberries with the champagne?
+A: I'd love to, but I'm allergic to strawberries.
+B: Okay, no strawberries tonight. The items will be charged to your amenities account.
+A: Go right ahead.
+B: Our staff will bring you your order in as short a time as possible. 
+
+A: I need something to eat, please.
+B: Tell me what you're hungry for.
+A: I feel like champagne, lobster tail, and filet mignon, medium rare.
+B: Unfortunately, we're out of filet mignon at the moment. May I suggest the porterhouse instead?
+A: I prefer filet, but porterhouse is good, too.
+B: Perhaps I could interest you in chocolate-covered strawberries with the champagne?
+A: Just the champagne will be fine, thank you.
+B: You'll see this charge on your amenities account.
+A: That's fine.
+B: It won't be long until your food is delivered. I know you'll enjoy it.
+
+A: Can I order something from the kitchen?
+B: Just tell me what you'd like, please.
+A: A bottle of champagne, lobster tail, and filet mignon, medium rare would hit the spot.
+B: I hate to tell you this, but we have no more filet mignon. May I suggest the porterhouse instead?
+A: Sure! Right now, I would even eat hamburger!
+B: Have you ever tried chocolate-covered strawberries with champagne? 
+A: Thank you, but I just finished eating some chocolate-covered cherries. 
+B: That'll be a bottle of champagne, lobster tail, and porterhouse, all charged to your amenities account.
+A: Not a problem.
+B: Please call if you have any other requests. Your food will be delivered promptly.
+
+A: I have a reservation. My name is John Sandals.
+B: May I see your ID, please, Mr. Sandals?
+A: Certainly. Here it is.
+B: Thank you. Do you have a credit card, Mr. Sandals?
+A: Yes, I do. Do you accept American Express?
+B: Sorry, sir, just VISA or MasterCard.
+A: Here's my VISA card.
+B: Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?
+A: Yes, it sounds like everything I expected.
+B: Here's your key, sir. If you need anything, just dial 0 on your room phone.
+
+A: I have a reservation under the name of Sandals.
+B: Could I see your ID, please, sir?
+A: Of course! Let me take it out of my wallet.
+B: Thank you, sir. Now, do you have a credit card, sir?
+A: Yes, of course. Is American Express okay?
+B: I'm sorry, sir. Only VISA or MasterCard.
+A: In that case, here's my VISA.
+B: Thank you. Your room number is 507, queen bed, nonsmoking. Is that agreeable to you, sir?
+A: Yes, I'm easy to please.
+B: Very good. Here is your room key, sir. If you need anything at all, please dial 0.
+
+A: My name is Sandals, I have a reservation.
+B: May I see your identification, please, sir?
+A: Here you are.
+B: Thanks. Do you have a credit card, sir?
+A: Of course. Will American Express do?
+B: I'm very sorry, sir. We accept only VISA or MasterCard.
+A: No problem. Here's my VISA.
+B: Thanks. Room 507 is a spacious, nonsmoking room, with a queen bed. Does that meet your expectations?
+A: Yes, that sounds like what I want.
+B: That's wonderful, sir. Now, here's your key. Should you need anything, just dial 0.
+
+A: I'm John Sandals, and I have a reservation.
+B: Would you show me your ID, sir, please?
+A: Here you go.
+B: Thank you very much. Now, sir, do you have a credit card?
+A: Certainly! Would you like my American Express card?
+B: Regrettably, Mr. Sandals, we accept only MasterCard or VISA.
+A: I thought American Express was accepted everywhere. Never mind. Here's my VISA.
+B: Thanks. You're in room 507, a big, nonsmoking room, with a queen bed. Is that okay, sir?
+A: Yes, that's just fine.
+B: I'm happy to hear that. Here is your key. Just dial 0 if you need anything.
+
+
+A: My name is John Sandals, and I've got a reservation.
+B: May I see some identification, sir, please?
+A: Sure. Here you are.
+B: Thank you so much. Have you got a credit card, Mr. Sandals?
+A: I sure do. How about American Express?
+B: Unfortunately, at the present time we take only MasterCard or VISA.
+A: No American Express? Okay, here's my VISA.
+B: Thank you, sir. You'll be in room 507, nonsmoking, with a queen-size bed. Do you approve, sir? 
+A: Yes, that'll be fine.
+B: That's great. This is your key, sir. If you need anything at all, anytime, just dial zero.
+
+A: I've got a reservation here. My name is John Sandals.
+B: Mr. Sandals, may I see your ID, please? 
+A: One second, please, while I dig it out here. 
+B: Now, sir, do you have a credit card?
+A: Yes, I do. Do you accept American Express?
+B: I'm sorry, Mr. Sandals, but we accept only MasterCard or VISA.
+A: That's okay, I've got plenty of cards. Here's my VISA.
+B: Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?
+A: Yes, that's just what I wanted. 
+B: Here's your key, sir. If you need anything, just dial 0 on your room phone.
+
