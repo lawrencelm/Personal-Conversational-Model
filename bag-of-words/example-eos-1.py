@@ -19,7 +19,7 @@ from sklearn.ensemble import GradientBoostingClassifier
 #from samr.transformations import (ExtractText, ReplaceText, MapToSynsets, POSTagger, SentimentChangerTagger,
 #                                  Polarity_And_Subjectivity, Densifier, ClassifierOvOAsFeatures)
 
-fname = "friends-lexicon.txt"
+fname = "silicon-small.txt"
 with open(fname) as f:
     replies = []
     for reply in f.readlines():
