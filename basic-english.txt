@@ -1,0 +1,598 @@
+A: Where do you live?
+B: I live in Pasadena.
+A: Where is Pasadena?
+B: It's in California.
+A: Is it in northern California?
+B: No. It's in southern California.
+A: Is Pasadena a big city?
+B: It's pretty big.
+A: How big is "pretty big"?
+B: It has about 140,000 people.
+A: How big is Los Angeles?
+B: It has about 3 million people.
+A: Do you have a car?
+B: Yes, I do.
+A: What kind of car do you have?
+B: I have a Honda.
+A: Is it new?
+B: It was new in 2003.
+A: So, it's pretty old now.
+B: Yes, it is. But it still looks good.
+A: Do you take good care of it?
+B: Oh, yes. I wash it once a week.
+A: Do you change the oil?
+B: My mechanic changes the oil twice a year.
+A: Do you have a girlfriend?
+B: No, I don't. Do you?
+A: I don't have a girlfriend, either.
+B: Why not?
+A: I don't know. Maybe I'm not rich enough.
+B: Girls like guys with money.
+A: They sure do.
+B: They like guys with new cars.
+A: I don't have money or a new car.
+B: Me, neither.
+A: But girls like guys who are funny.
+B: Maybe we should learn some good jokes.
+A: Where are you going?
+B: I have to walk the dog.
+A: What kind of dog do you have?
+B: I have a little poodle.
+A: Poodles bark a lot.
+B: They sure do.
+A: They bark at everything.
+B: They never shut up.
+A: Why did you get a poodle?
+B: It's my mom's dog.
+A: So she likes poodles.
+B: She says they're good watchdogs.
+A: Can I borrow $5?
+B: Sure. Why do you need it?
+A: I want to buy lunch.
+B: Where's your money?
+A: It's not in my wallet.
+B: Your wallet is empty?
+A: I don't have even one dollar in it.
+B: Being broke is no fun.
+A: Even if it's only for a short while.
+B: It's always good to have friends.
+A: Friends will lend you money when you're broke.
+B: As long as you pay them back.
+A: Let's go to the beach.
+B: That's a great idea.
+A: We haven't been in a while.
+B: We haven't been in a month.
+A: The last time we went, you almost drowned.
+B: No, I didn't.
+A: Then why did the lifeguard dive into the water?
+B: I think he wanted to cool off.
+A: He swam right up to you.
+B: And then he turned right around.
+A: Maybe you're right.
+B: Maybe we should get going.
+A: Are you married?
+B: No. I'm divorced.
+A: When did you get divorced?
+B: I got divorced two years ago.
+A: Why did you get divorced?
+B: My wife left me.
+A: Why did she leave you?
+B: She said she didn't love me anymore.
+A: Wow! That's terrible.
+B: Yes, it was.
+A: Why didn't she love you anymore?
+B: She fell in love with my best friend.
+A: I'm bored.
+B: What's on TV?
+A: Nothing.
+B: There must be something on TV!
+A: Nothing that's interesting.
+B: What about that new game show?
+A: Which one?
+B: "Deal or No Deal"
+A: Tell me you're joking.
+B: I love that show.
+A: I watched it once. That was enough.
+B: It's on right now. Let's watch it together.
+A: I like living here.
+B: I agree. Pasadena is a nice city.
+A: It's not too big.
+B: And it's not too small.
+A: It has great weather all year long.
+B: It has the Rose Parade.
+A: It has beautiful houses.
+B: It has wonderful restaurants.
+A: It has great schools.
+B: It's close to the mountains.
+A: The people are friendly.
+B: I'm not ever going to leave.
+A: We need a new mattress.
+B: What's the matter with this one?
+A: It's not comfortable.
+B: It seems fine to me.
+A: I toss and turn all night.
+B: You should stop drinking coffee.
+A: Look at these marks on my arms.
+B: What are they?
+A: They are bites.
+B: Did the cat bite you?
+A: No. The bedbugs in that mattress bit me.
+B: Okay. Let's get a new mattress.
+A: My laptop is so slow.
+B: Buy a new one.
+A: I would if I had the money.
+B: Why is it so slow?
+A: That's a good question.
+B: Did you take it to a computer shop?
+A: I would if I had the money.
+B: Well, I guess you have to live with it.
+A: Sometimes I want to throw it out the window.
+B: You don't want to do that.
+A: Why not?
+B: You might hit someone in the head.
+A: What's for dinner?
+B: I'm not sure.
+A: How about a pizza?
+B: You had pizza for lunch.
+A: But I love pizza.
+B: Everybody loves pizza.
+A: So why can't I have pizza for dinner?
+B: Because you need variety.
+A: What's "variety?
+B: Different things—not the same thing all the time.
+A: You mean, like a pepperoni pizza instead of a cheese pizza?
+B: No, I mean a salad instead of a pizza.
+A: We need to save money.
+B: Why do we need to save money?
+A: Because we need to buy a house.
+B: But a house is so expensive.
+A: That's why we need to save money.
+B: How much do we need to save?
+A: We need to save enough for a down payment.
+B: How much is that?
+A: That's about $30,000.
+B: Thirty thousand dollars! That will take forever.
+A: Not if we save every penny.
+B: Okay. Here's seven pennies.
+A: The ocean is so big.
+B: You can't see the end of it.
+A: It goes on and on forever.
+B: And it's deep, too.
+A: I think it's five miles deep.
+B: Are there fish at the bottom?
+A: There are fish at the top and the bottom.
+B: Are there more fish or more people?
+A: I think there are more fish.
+B: I hope so. I love to eat fish.
+A: I'm upset with my mom.
+B: Why is that?
+A: I warned her about her new boyfriend. She didn't listen to me.
+B: What happened?
+A: I gave her $1,000 for her birthday. I told her to spend it on herself.
+B: That was very nice of you.
+A: I found out that she gave it to her new boyfriend.
+B: Why did she do that?
+A: He said he would buy her a nice ring.
+B: What's wrong with that?
+A: He went to Las Vegas. He lost it all gambling.
+B: I hope your mom broke up with him.
+A: Do animals talk to each other?
+B: Of course they talk to each other.
+A: What do they talk about?
+B: They talk about other animals.
+A: What else do they talk about?
+B: They talk about food and the weather.
+A: Do they talk about us?
+B: Of course they talk about us.
+A: What do they say about us?
+B: They say that we are funny-looking.
+A: Ha! We're not funny-looking; animals are funny-looking.
+B: We're funny-looking because we wear clothes.
+A: I have to clean the house.
+B: Yes, it's very dirty.
+A: You can help me.
+B: Why me?
+A: Because you helped make it dirty.
+B: What do you want me to do?
+A: I want you to clean the bathroom.
+B: Oh, that's easy.
+A: Clean the sink, the tub, the counter, and the toilet.
+B: That's a lot of work.
+A: Tell me when you finish.
+B: I don't think so. You'll just give me more work.
+A: You're watching too much TV.
+B: What do you mean?
+A: I mean you're wasting your life.
+B: I'm having fun.
+A: You're sitting there with your mouth open.
+B: Who cares?
+A: I care. Do something.
+B: Okay. I did something.
+A: What did you do?
+B: I turned up the volume.
+A: That's not what I meant by "do something."
+B: Will you do something? Leave me alone.
+A: Did you write a letter to grandma?
+B: Yes, I did.
+A: Did you tell her about school?
+B: I told her that school is fun.
+A: Did you put the letter in an envelope?
+B: Yes, and I sealed the envelope.
+A: Did you put a stamp on the envelope?
+B: I couldn't find any stamps.
+A: They're in the kitchen drawer.
+B: Okay. I just put a stamp on the envelope.
+A: Give me the envelope, and I'll mail it for you.
+B: When is grandma going to learn about e-mail?
+A: Why are you yawning?
+B: I'm sleepy.
+A: Why don't you go to bed?
+B: I want to watch this TV show.
+A: Maybe you should record it.
+B: The tape recorder is broken.
+A: Then you should watch the rerun.
+B: Why? I'm watching the original.
+A: But you'll be asleep in about one minute.
+B: I'm just yawning because the commercials are on.
+A: Okay. I'll tell you how the show ends.
+B: Zzz.
+A: It's Sunday.
+B: So?
+A: You know what that means.
+B: I forgot.
+A: Sunday means we go to church.
+B: Oh, yeah.
+A: Put on a coat and tie.
+B: Why?
+A: To show respect to God and others.
+B: I'm glad Sunday is only once a week.
+A: I hope God didn't hear that.
+B: He'll forgive me.
+A: Did you feed the cat?
+B: I'll do that in a minute.
+A: The cat is meowing. He's hungry.
+B: Okay. I'll feed him right now.
+A: You shouldn't make him wait.
+B: I was doing my homework.
+A: The cat doesn't care about your homework.
+B: The cat doesn't care about anything.
+A: That's the way cats are.
+B: All they think about is themselves.
+A: Maybe we should get rid of him.
+B: Of course not! He's family.
+A: I hate shaving.
+B: Me too.
+A: I just cut myself again.
+B: Did you use a new blade?
+A: It doesn't matter. Old blades cut, new blades cut.
+B: Maybe you should use an electric shaver.
+A: They make a lot of noise, but they don't give a close shave.
+B: Maybe you should stop shaving.
+A: And grow a beard?
+B: Sure. Why not?
+A: Because food and other stuff sticks in my beard.
+B: Hmm. Here's an idea. Put cream on your face and have the cat lick it off.
+A: Excuse me.
+B: Yes?
+A: Are you reading this paper?
+B: Oh, no. Help yourself.
+A: I asked because the paper is sitting next to you.
+B: Thank you. That's polite of you to ask.
+A: Some people would just pick it up.
+B: Yes, I know. Some people are rude.
+A: I always try to be polite.
+B: So do I.
+A: The world needs more polite people like us.
+B: I agree 100 percent.
+A: Mom, I want a puppy.
+B: Let me think about it.
+A: Why do you have to think about it?
+B: Because a puppy costs money.
+A: No, it doesn't. Puppies are free.
+B: Yes, but a puppy needs shots.
+A: Shots for what?
+B: So it won't get sick. Just like you get shots.
+A: I hate shots.
+B: And a puppy eats food. Food costs money.
+A: No problem. I'll give him food off my plate.
+B: Oh, no you don't. Puppies don't eat vegetables.
+A: Look at all these kittens!
+B: How many are there?
+A: Eight.
+B: They're all so cute.
+A: Yes, but I can't keep them.
+B: What are you going to do with them?
+A: I'm going to give them away. Do you want one?
+B: Yes, I would love one.
+A: Which one do you want?
+B: That one. The one that's all black.
+A: Yes, I like that one, too.
+B: I'll call him Blacky.
+A: My parents go to church every Sunday.
+B: They trust in God.
+A: They hope they will go to heaven.
+B: They probably will.
+A: But no one knows for sure.
+B: That's for sure.
+A: No one knows what happens after we die.
+B: If we are good, we will be happy in heaven with God.
+A: That's what many people believe.
+B: If we are bad, we will be unhappy forever in hell.
+A: I don't want to go to hell.
+B: Let's go to church with your parents on Sunday.
+A: My husband died.
+B: I'm sorry for you.
+A: Thank you.
+B: When did he die?
+A: A couple of months ago.
+B: You still miss him.
+A: Yes, but I talk to him almost every day.
+B: When you go to church?
+A: No, when I call him on his cell phone.
+B: What do you mean?
+A: I buried him with his cell phone.
+B: What will you do when the battery dies?
+A: Today is Friday the thirteenth.
+B: That's a bad day.
+A: It's supposed to be unlucky.
+B: You're supposed to stay home all day.
+A: That's what I do.
+B: My friend stayed in a hotel on Friday the thirteenth.
+A: That was a mistake.
+B: He stayed on the thirteenth floor.
+A: What happened?
+B: Someone stole his laptop.
+A: He was asking for it.
+B: He learned his lesson. He's home today.
+A: Do you really love me?
+B: Of course.
+A: Prove it.
+B: How can I prove it?
+A: Take me to dinner.
+B: That's it? That's all I have to do?
+A: Take me to a nice restaurant, not to McDonald's.
+B: But a nice restaurant costs money.
+A: Yes, and you have to make a reservation.
+B: That's such a hassle.
+A: I knew you didn't love me.
+B: Okay, okay! I'll make a reservation right now.
+A: My parents are divorced.
+B: So are mine.
+A: Why did your parents get divorced?
+B: My father found a new girlfriend.
+A: That's too bad.
+B: My mother was hurt and angry.
+A: She had good reason. What did she do?
+B: She told him to drop his girlfriend.
+A: What did your father do?
+B: He moved out of our house.
+A: I guess he really liked his new girlfriend.
+B: Yes, but she left him a year later.
+A: My grandma's apartment smells funny.
+B: So does mine.
+A: I think it's an old people's smell.
+B: Really?
+A: Yes. I think when you get old, you begin to smell.
+B: Like fruit that is too ripe?
+A: Yes, just like fruit that is too ripe.
+B: But the smell is different.
+A: Yes, old people don't smell like fruit.
+B: No, they smell like a thrift shop.
+A: Yes, a thrift shop has that same smell.
+B: Yes, an old smell.
+A: The price of stamps goes up and up.
+B: I think stamps used to cost a penny.
+A: That was a long time ago.
+B: It was before I was born.
+A: Now a stamp is 42 cents.
+B: But in May it will be 44 cents.
+A: Have you ever lost a letter in the mail?
+B: No, I haven't.
+A: Neither have I.
+B: So, they do a good job for the money.
+A: Yes, they do.
+B: Maybe we shouldn't complain.
+A: A button came off my shirt.
+B: What are you going to do?
+A: First, I have to find the button.
+B: Where did you lose it?
+A: I have no idea.
+B: A button is hard to find. Did you look in your pant cuffs?
+A: That's a good idea.
+B: I found a button in my pant cuffs one time.
+A: Let me look. No, it's not there.
+B: Many shirts come with an extra button.
+A: You're right. This one does have an extra button.
+B: Now all you have to do is sew it on.
+A: I have to go to the bathroom.
+B: You drink too much coffee.
+A: But I love coffee.
+B: Well, it's your life.
+A: You eat too much chocolate.
+B: I don't think so.
+A: Have you looked in the mirror?
+B: Do you think I'm getting fat?
+A: I didn't say that.
+B: What did you say?
+A: I said I have to go to the bathroom.
+B: That's what I thought you said.
+A: Did you do the laundry?
+B: Yes, I did.
+A: What did you wash?
+B: I washed the sheets and towels.
+A: What about the pillowcases?
+B: Yes, I took them off the pillows and washed them.
+A: Did you dry everything in the dryer?
+B: Yes, I dried everything in the dryer.
+A: Then what did you do?
+B: I folded all the towels.
+A: Did you put the sheets on the beds?
+B: Yes, and I put the pillowcases on the pillows.
+A: Do you listen to the radio?
+B: I listen day and night.
+A: What do you listen to?
+B: Mostly talk radio.
+A: What's that?
+B: People talk about current events.
+A: What do they say?
+B: They say they want change.
+A: What kind of change?
+B: They want tax cuts.
+A: Why do they want tax cuts?
+B: Because tax cuts will save them money.
+A: Mom, I'm hungry.
+B: Look in the fridge.
+A: I'm looking. There's nothing to eat.
+B: Are you sure?
+A: It's almost empty.
+B: I went to the market yesterday.
+A: I don't see anything.
+B: I bought lots of oranges and apples.
+A: I don't want fruit. I want something tasty.
+B: Eat the fruit. It's good for you.
+A: Next time you go to the market, let me go with you.
+B: No, thank you. All you want to eat are hot dogs and candy bars.
+A: What is there to eat?
+B: I don't know. Look in the fridge.
+A: I think I'll make a sandwich.
+B: What kind?
+A: A ham sandwich.
+B: The bread is in the cabinet.
+A: Where's the mustard?
+B: It's in the fridge, I think.
+A: Oh, yes, here it is. Do you want a sandwich?
+B: Yes, that sounds nice.
+A: How about some potato chips?
+B: Yes. And a pickle, if we have any.
+A: It's time for your bath, young lady.
+B: But, Mom, I'm not dirty.
+A: You need a bath every day.
+B: Why?
+A: Because you don't want to smell bad.
+B: I don't smell bad.
+A: That's what you think.
+B: If I smelled bad, I could smell me.
+A: I can smell you.
+B: I can smell you, too.
+A: That's my perfume.
+B: When can I wear perfume?
+A: Something's wrong with my computer.
+B: Exactly what?
+A: All I get is a black screen.
+B: What's the matter?
+A: I think I know, because this happened before.
+B: What happened before?
+A: My hard drive crashed.
+B: Oh, no. That's bad news.
+A: It sure is, but I'm going to call HP first, just to make sure.
+B: Will you lose all your files?
+A: No, I always back up my files.
+B: You're smart.
+A: I called HP about my computer.
+B: What did they say?
+A: They said I need a new hard drive.
+B: That's too bad. How much is a new one?
+A: It's not too much, only about $85.
+B: Plus installation?
+A: No, my hard drive is easy to remove and replace.
+B: Really?
+A: Yes, it's just a couple of screws.
+B: That's nice.
+A: It's a lot better than paying someone $60.
+B: If my hard drive crashes, I'll just call you.
+A: What's your email address?
+B: It's bluedog123.
+A: Bluedog123. Are you sure that's all?
+B: Yes.
+A: No. That's incomplete.
+B: What do you mean?
+A: What's your mailing address?
+B: 456 Cherry Drive, Pasadena, CA 91170.
+A: That's correct.
+B: So what's the problem?
+A: Bluedog123 is just the street. You have to give me the city, state, and ZIP code.
+B: Oh, I get it. My email address is bluedog123@yahoo.com.
+A: I'm going to take a nap.
+B: You should unplug the phone.
+A: That's a good idea.
+B: Do you want me to wake you in an hour?
+A: No, thanks. Just let me sleep until I wake up.
+B: I'll start dinner at 6:00.
+A: Okay. I think I'll be awake by then.
+B: If not, your nose will wake you up.
+A: You mean I will smell the food cooking?
+B: You might even dream about dinner.
+A: I don't think I'm going to dream about anything. I'm really tired.
+B: Have a nice nap.
+A: That was a nice funeral.
+B: Yes, dad, it was.
+A: The son gave a nice speech about his father.
+B: It was long, too.
+A: I think it was about 45 minutes long.
+B: But it went by fast. It was interesting.
+A: I liked it.
+B: I'll give you a speech like that, too.
+A: Do you think anyone will come to my funeral?
+B: Of course.
+A: I think only the family will be there.
+B: You have lots of friends. They will be there, too!
+A: Yikes! What was that noise?
+B: I had to blow my nose.
+A: Did you have to blow right next to the phone?
+B: Did you hear that?
+A: Of course I heard that. I thought a plane had crashed into your house.
+B: It wasn't that loud.
+A: I will blow my nose sometime for you, and you'll see.
+B: Okay. I'll take your word for it.
+A: I thought you had an elephant in your house.
+B: You're funny.
+A: What did you say? I think I've gone deaf.
+B: I'm going into the bathroom to blow my nose. I'll be right back.
+A: I have lots of friends.
+B: Really? How many do you have?
+A: I don't know, maybe one hundred.
+B: That is a lot of friends. Do you have a best friend?
+A: Of course. I have lots of best friends.
+B: How many best friends do you have?
+A: I think about twenty-five.
+B: Hmm. I have only one best friend.
+A: I feel sorry for you.
+B: I have only a few friends.
+A: You must be lonely. I will share my friends with you.
+B: That's very nice of you.
+A: Don't you ever cheat on me.
+B: Why would I do that?
+A: Because men like to cheat.
+B: Some men do, but not me.
+A: I'm watching you.
+B: I'm an open book. Watch me all you want.
+A: If I catch you, you'll be sorry.
+B: You won't catch me, because I love you. I'm not a cheater.
+A: I will poke your eyes out. 
+B: I don't want any other woman.
+A: I will chop your toes off, one by one.
+B: Honey, please. You're the only woman for me, forever. I swear it.
+A: I hate to go outside.
+B: Me too.
+A: Why do you hate to go outside?
+B: I meet too many jerks.
+A: I agree.
+B: This city is full of jerks.
+A: Rude people are everywhere.
+B: But what can you do?
+A: You can yell at them.
+B: And they will yell back at you.
+A: Yelling doesn't do any good.
+B: No. The best thing to do is just stay home.
+A: Will you look at this form?
+B: Are you having problems with it?
+A: I don't understand some things.
+B: Let me help you.
+A: What does "MI" mean?
+B: "MI" stands for Middle Initial.
+A: What does "MM/DD/YY" mean?
+B: That means Month/Day/Year. Use numbers.
+A: I don't understand.
+B: For example, if your birth date is January 12, 1987, write 01/12/87.
+A: Oh. That's simple enough.
+B: Always print clearly, and fill in the bubbles completely.
